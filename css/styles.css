@@ -1,0 +1,88 @@
+body {
+    background: #f2f2f2;
+    margin:0;
+}
+
+.pokemonRankingBox {
+    border-left: 1px solid #cbccc8;
+    width: 33.3%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    color: rgba(0,0,0,0.54);
+    font-size: 14px;
+    margin-right: -2px;
+    overflow: hidden;
+}
+
+.pokemonRankingBox:first-of-type {
+    border-left: 0;
+    margin-right: -3px;
+}
+
+.pokemonRankingContainer {
+    height: 440px;
+    width: 100%;
+    background: white;
+    position: relative;
+    border-bottom: 1px solid #cbccc8;
+}
+
+.pokedex {
+    position: relative;
+}
+
+.pokedexHeader {
+    background: rgb(250, 250, 250);
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.35);
+    box-sizing: border-box;
+    color: #795548;
+    font-weight: 600;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    transition: -webkit-transform 0.5s, transform 0.5s, width 0.1s;
+    height: 50px;
+    top: 70px;
+    overflow: scroll;
+    white-space: nowrap;
+}
+
+.pokedexList {
+    left: 0px;
+    position: fixed;
+    top: 120px;
+    bottom: 0;
+    width: 310px;
+    z-index: 1;
+    overflow: scroll;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background: #fafafa;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.35);
+    transition: transform 0.5s;
+    -webkit-transition: -webkit-transform 0.5s, transform 0.5s;
+}
+
+.pokemonContent {
+    background: #F2F2F0;
+    bottom: 0;
+    color: #5a5a58;
+    left: 310px;
+    overflow: hidden;
+    position: fixed;
+    right: 0;
+    top: 120px;
+}
+
+.pokedexListItem {
+    line-height: 54pt;
+    position: relative;
+    color: rgba(0,0,0,0.54);
+    display: block;
+    text-transform: capitalize;
+    padding-left: 10px;
+    transition: background 0.4s;
+    font-size: 12px;
+    text-decoration: none;
+}
