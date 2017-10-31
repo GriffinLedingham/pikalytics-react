@@ -1,6 +1,7 @@
 body {
     background: #f2f2f2;
     margin:0;
+    font-family: 'Lato';
 }
 
 .pokemonRankingBox {
@@ -86,3 +87,200 @@ body {
     font-size: 12px;
     text-decoration: none;
 }
+
+.pokemonContentPanel {
+  padding-top: 20px;
+  margin: 16px;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,0.12);
+      background-color: white;
+}
+
+.pokemonContentHeader {
+  padding-left: 40px;
+padding-right: 40px;
+padding-top: 15px;
+padding-bottom: 25px;
+text-align: left;
+color: rgba(0,0,0,0.54);
+}
+
+.pokemonContentHeaderImage {
+  transform: scale(1.5);
+image-rendering: pixelated;
+margin-right: 15px;
+display: inline-block;
+text-align: center;
+}
+
+.pokemonContentHeaderName {
+  font-size: 22px;
+text-transform: capitalize;
+vertical-align: top;
+display: inline-block;
+}
+
+.pokemonContentHeaderTypes {
+  vertical-align: top;
+top: 8px;
+position: relative;
+left: 10px;
+}
+
+.pokemonContentStatContainer {
+  margin: 20px;
+text-align: left;
+vertical-align: top;
+display: inline-block;
+}
+
+.pokemonContentStatContainerHeader {
+  color: #5a5a58;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.pokemonContentCategoryWrapper {
+  height: 316px;
+overflow: scroll;
+-webkit-overflow-scrolling: touch;
+width: 400px;
+margin: 20px;
+display: inline-block;
+border: 1px solid rgba(0, 0, 0, 0.16);
+}
+
+.pokemonContentBattleStatsWrapper {
+  display: block;
+font-size: 12px;
+top: 0px;
+position: relative;
+left: 0px;
+border-radius: 0px;
+margin-left: 40px;
+margin-top: 35px;
+}
+
+.pokemonContentBattleStatsName {
+  display: inline-block;
+width: 30px;
+text-align: left;
+text-transform: capitalize;
+}
+
+.pokemonContentBattleStatsBar {
+  height: 40px;
+text-align: left;
+display: inline-block;
+width:250px;
+position: relative;
+}
+
+
+.pokemonContentBattleStatsBarInner {
+  display: inline-block;
+height: 100%;
+vertical-align: middle;
+}
+
+.pokemonContentBattleStatsBarInner.hp {
+  background: #FF0000;
+  border: 1px solid #A60000;
+}
+
+.pokemonContentBattleStatsBarInner.atk {
+  background: #F5AC78;
+border: 1px solid #9C531F;
+}
+
+.pokemonContentBattleStatsBarInner.def {
+  background: #FAE078;
+border: 1px solid #A1871F;
+}
+
+.pokemonContentBattleStatsBarInner.spa {
+  background: #9DB7F5;
+border: 1px solid #445E9C;
+}
+
+.pokemonContentBattleStatsBarInner.spd {
+  background: #A7DB8D;
+border: 1px solid #4E8234;
+}
+
+.pokemonContentBattleStatsBarInner.spe {
+  background: #FA92B2;
+border: 1px solid #A13959;
+}
+
+.pokemonContentBattleStatValue{
+display: inline-block;
+vertical-align: middle;
+margin-left: 20px;
+}
+
+.pokemonContentMoveEntry {
+  display: block;
+white-space: nowrap;
+height: 40px;
+line-height: 40px;
+position: relative;
+padding: 15px;
+font-size: 12px;
+    color: #333;
+    padding-left: 25px;
+}
+
+.pokemonContentMoveEntry:nth-of-type(odd) {
+  background: rgb(248, 248, 248);
+}
+
+.pokemonContentMoveEntryText {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.pokemonContentMoveEntryPercent {
+  display:inline-block;color:#333;float:right;
+}
+
+.type {
+    margin-right: 14px !important;
+    margin-left: 2px;
+    text-transform: uppercase;
+    font-family: 'Lato';
+    letter-spacing: 1px;
+    position: relative;
+    top: 0px;
+    font-size: 8px !important;
+    padding: 1px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    padding-right: 5px;
+    box-shadow: 0px 0px 0px 1px black;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.7), 1px -1px 0 rgba(0, 0, 0, 0.7), -1px 1px 0 rgba(0, 0, 0, 0.7), 1px 1px 0 rgba(0, 0, 0, 0.7);
+    display: inline;
+    vertical-align: top;
+}
+
+span.type.fighting,.type.fighting th{background: #e06752;}
+span.type.fire,.type.fire th{background: #ff5129;}
+span.type.flying,.type.flying th{background: #7ab7ff;}
+span.type.grass,.type.grass th{background: #8fed66;}
+span.type.water,.type.water th{background: #3db7ff;}
+span.type.bug,.type.bug th{background: #cbde29;}
+span.type.electric,.type.electric th{background: #ffed3d;}
+span.type.ghost,.type.ghost th{background: #7a7adf;}
+span.type.ground,.type.ground th{background: #f6dd66;}
+span.type.poison,.type.poison th{background: #cb66b7;}
+span.type.rock,.type.rock th{background: #ddcb7a;}
+span.type.dragon,.type.dragon th{background: #8d79fd;}
+span.type.fairy,.type.fairy th{background: #ffcbff;}
+span.type.ice,.type.ice th{background: #8ef7ff;}
+span.type.psychic,.type.psychic th{background: #ff65b6;}
+span.type.steel,.type.steel  th{background: #cbcbdf;}
+span.type.dark,.type.dark th{background: #8e6651;}
+span.type.normal,.type.normal  th{background: #dedecb;}

@@ -10,6 +10,7 @@ if (defaultState) {
 } else {
   defaultState = new Map({
     pokemon: new List(),
+    pokemonItems: new Map(),
     currentPokemon: 'Arcanine'
     // comments: new Map(),
   })
@@ -23,14 +24,7 @@ export default function (state = defaultState, action) {
       newState = state.mergeIn(['pokemon'], action.pokemon)
       break
     case CHANGE_POKEMON:
-      let index = 0
-      let pokemon = state.get('pokemon')
-      pokemon.map((pokemonItem, key)=>{
-        if(pokemonItem.get('name') == action.pokemon.name) {
-          index = key
-        }
-      })
-      newState = state.mergeIn(['pokemon', index], action.pokemon).set('currentPokemon', action.pokemon.name)
+      newState = state.mergeIn(['pokemonItems', action.pokemon.name], action.pokemon).set('currentPokemon', action.pokemon.name)
       break
     default:
       change = false

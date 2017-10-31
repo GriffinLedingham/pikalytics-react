@@ -1,0 +1,5056 @@
+.sprite-xyicons {
+    background-image: url(/assets/smicons.png);
+}
+
+.sprite-xyicons.big-3 {
+
+}
+
+.sprite-xyicons.zygarde {
+    width: 28px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.sprite-xyicons.zygarde-10\% {
+    width: 28px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.sprite-xyicons.alakazam-mega {
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: -30px 0;
+}
+.sprite-xyicons.banette-mega {
+    width: 26px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 -32px;
+}
+.sprite-xyicons.mewtwo-mega-y {
+    width: 20px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: -28px -32px;
+}
+.sprite-xyicons.xerneas {
+    width: 29px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: -50px -32px;
+}
+.sprite-xyicons.kyurem-white {
+    width: 37px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: -62px 0;
+}
+.sprite-xyicons.ho-oh {
+    width: 29px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 -64px;
+}
+.sprite-xyicons.heracross-mega {
+    width: 34px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: -31px -64px;
+}
+.sprite-xyicons.weezing {
+    width: 30px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -81px -32px;
+}
+.sprite-xyicons.gengar-mega {
+    width: 34px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -67px -64px;
+}
+.sprite-xyicons.aegislash-blade {
+    width: 35px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: 0 -96px;
+}
+.sprite-xyicons.aegislash {
+    width: 27px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -101px 0;
+}
+.sprite-xyicons.gyarados-mega {
+    width: 30px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -37px -96px;
+}
+.sprite-xyicons.tyranitar-mega {
+    width: 28px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -113px -31px;
+}
+.sprite-xyicons.kyurem-black {
+    width: 33px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -69px -95px;
+}
+.sprite-xyicons.lugia {
+    width: 32px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: -103px -63px;
+}
+.sprite-xyicons.steelix-mega {
+    width: 39px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: 0 -127px;
+}
+.sprite-xyicons.gyarados {
+    width: 29px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -130px 0;
+}
+.sprite-xyicons.landorus-therian {
+    width: 27px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -41px -127px;
+}
+.sprite-xyicons.mismagius {
+    width: 19px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -104px -94px;
+}
+.sprite-xyicons.scizor-mega {
+    width: 28px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -70px -126px;
+}
+.sprite-xyicons.darkrai {
+    width: 31px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -143px -30px;
+}
+.sprite-xyicons.blastoise-mega {
+    width: 30px;
+    height: 28px;
+    background-repeat: no-repeat;
+    background-position: -137px -62px;
+}
+.sprite-xyicons.onix {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -125px -94px;
+}
+.sprite-xyicons.zekrom {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: 0 -158px;
+}
+.sprite-xyicons.arcanine {
+    width: 29px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -100px -126px;
+}
+.sprite-xyicons.arceus-bug {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -161px 0;
+}
+.sprite-xyicons.arceus-dark {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -32px -158px;
+}
+.sprite-xyicons.arceus-dragon {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -62px -157px;
+}
+.sprite-xyicons.arceus-electric {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -176px -29px;
+}
+.sprite-xyicons.arceus-fairy {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -169px -60px;
+}
+.sprite-xyicons.arceus-fighting {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -131px -123px;
+}
+.sprite-xyicons.arceus-fire {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -92px -156px;
+}
+.sprite-xyicons.arceus-flying {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -157px -92px;
+}
+.sprite-xyicons.arceus-ghost {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: 0 -187px;
+}
+.sprite-xyicons.arceus-grass {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -30px -187px;
+}
+.sprite-xyicons.arceus-ground {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -191px 0;
+}
+.sprite-xyicons.arceus-ice {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -62px -186px;
+}
+.sprite-xyicons.arceus-poison {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -122px -155px;
+}
+.sprite-xyicons.arceus-psychic {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -161px -121px;
+}
+.sprite-xyicons.arceus-rock {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -92px -185px;
+}
+.sprite-xyicons.arceus-steel {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -187px -89px;
+}
+.sprite-xyicons.arceus-water {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -199px -58px;
+}
+.sprite-xyicons.arceus {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -206px -29px;
+}
+.sprite-xyicons.tornadus-therian {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -152px -152px;
+}
+.sprite-xyicons.meganium {
+    width: 23px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: 0 -216px;
+}
+.sprite-xyicons.medicham-mega {
+    width: 29px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -25px -216px;
+}
+.sprite-xyicons.thundurus {
+    width: 31px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -122px -184px;
+}
+.sprite-xyicons.steelix {
+    width: 35px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -221px 0;
+}
+.sprite-xyicons.yveltal {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -56px -216px;
+}
+.sprite-xyicons.alakazam {
+    width: 31px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -191px -118px;
+}
+.sprite-xyicons.houndoom-mega {
+    width: 23px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -88px -215px;
+}
+.sprite-xyicons.abomasnow-mega {
+    width: 27px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -217px -87px;
+}
+.sprite-xyicons.aurorus {
+    width: 24px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -229px -58px;
+}
+.sprite-xyicons.scizor {
+    width: 26px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -184px -150px;
+}
+.sprite-xyicons.volcanion {
+    width: 25px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -236px -29px;
+}
+.sprite-xyicons.sceptile-mega {
+    width: 37px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -155px -181px;
+}
+.sprite-xyicons.rotom {
+    width: 28px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -113px -214px;
+}
+.sprite-xyicons.furfrou {
+    width: 24px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: 0 -245px;
+}
+.sprite-xyicons.florges {
+    width: 26px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -26px -245px;
+}
+.sprite-xyicons.dialga {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -54px -245px;
+}
+.sprite-xyicons.reshiram {
+    width: 32px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -224px -116px;
+}
+.sprite-xyicons.rayquaza {
+    width: 31px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -143px -213px;
+}
+.sprite-xyicons.barbaracle {
+    width: 30px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -212px -147px;
+}
+.sprite-xyicons.charizard {
+    width: 32px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -258px 0;
+}
+.sprite-xyicons.cacturne {
+    width: 19px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -88px -244px;
+}
+.sprite-xyicons.blaziken-mega {
+    width: 32px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -246px -87px;
+}
+.sprite-xyicons.rayquaza-mega {
+    width: 31px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-position: -255px -58px;
+}
+.sprite-xyicons.tropius {
+    width: 31px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -194px -179px;
+}
+.sprite-xyicons.ampharos-mega {
+    width: 29px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -263px -29px;
+}
+.sprite-xyicons.mawile-mega {
+    width: 30px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -109px -244px;
+}
+.sprite-xyicons.blaziken {
+    width: 22px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -176px -210px;
+}
+.sprite-xyicons.absol-mega {
+    width: 26px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: 0 -274px;
+}
+.sprite-xyicons.aggron-mega {
+    width: 31px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -28px -274px;
+}
+.sprite-xyicons.thundurus-therian {
+    width: 32px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -61px -274px;
+}
+.sprite-xyicons.tornadus {
+    width: 30px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -141px -243px;
+}
+.sprite-xyicons.ludicolo {
+    width: 21px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -258px -116px;
+}
+.sprite-xyicons.cresselia {
+    width: 25px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -244px -145px;
+}
+.sprite-xyicons.sentret {
+    width: 15px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -227px -176px;
+}
+.sprite-xyicons.deoxys-attack {
+    width: 29px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -200px -207px;
+}
+.sprite-xyicons.landorus {
+    width: 31px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -95px -273px;
+}
+.sprite-xyicons.kyurem {
+    width: 31px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -292px 0;
+}
+.sprite-xyicons.mewtwo-mega-x {
+    width: 21px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -280px -87px;
+}
+.sprite-xyicons.sceptile {
+    width: 28px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -288px -57px;
+}
+.sprite-xyicons.palkia {
+    width: 30px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -294px -28px;
+}
+.sprite-xyicons.koffing {
+    width: 25px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -176px -238px;
+}
+.sprite-xyicons.virizion {
+    width: 21px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -244px -173px;
+}
+.sprite-xyicons.exploud {
+    width: 27px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -128px -272px;
+}
+.sprite-xyicons.feraligatr {
+    width: 31px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: 0 -302px;
+}
+.sprite-xyicons.venusaur-mega {
+    width: 29px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -281px -115px;
+}
+.sprite-xyicons.venonat {
+    width: 17px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -33px -302px;
+}
+.sprite-xyicons.hypno {
+    width: 27px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -52px -302px;
+}
+.sprite-xyicons.slowking {
+    width: 19px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -271px -144px;
+}
+.sprite-xyicons.haunter {
+    width: 30px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -231px -204px;
+}
+.sprite-xyicons.rapidash {
+    width: 29px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-position: -203px -235px;
+}
+.sprite-xyicons.gigalith {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -81px -302px;
+}
+.sprite-xyicons.croconaw {
+    width: 21px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -157px -271px;
+}
+.sprite-xyicons.mew {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -303px -85px;
+}
+.sprite-xyicons.absol {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -267px -173px;
+}
+.sprite-xyicons.deoxys-speed {
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -112px -301px;
+}
+.sprite-xyicons.simisage {
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -180px -266px;
+}
+.sprite-xyicons.diggersby {
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -318px -56px;
+}
+.sprite-xyicons.dodrio {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -325px 0;
+}
+.sprite-xyicons.talonflame {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -292px -143px;
+}
+.sprite-xyicons.trevenant {
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -326px -27px;
+}
+.sprite-xyicons.charizard-mega-x {
+    width: 40px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -234px -232px;
+}
+.sprite-xyicons.charizard-mega-y {
+    width: 38px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: 0 -330px;
+}
+.sprite-xyicons.medicham {
+    width: 17px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -139px -300px;
+}
+.sprite-xyicons.slaking {
+    width: 28px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -263px -201px;
+}
+.sprite-xyicons.vivillon {
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -312px -112px;
+}
+.sprite-xyicons.muk {
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -40px -330px;
+}
+.sprite-xyicons.luxray {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -207px -263px;
+}
+.sprite-xyicons.emboar {
+    width: 28px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -68px -330px;
+}
+.sprite-xyicons.empoleon {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -158px -298px;
+}
+.sprite-xyicons.klinklang {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -292px -170px;
+}
+.sprite-xyicons.kingler {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -328px -83px;
+}
+.sprite-xyicons.stantler {
+    width: 21px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -98px -329px;
+}
+.sprite-xyicons.typhlosion {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -183px -293px;
+}
+.sprite-xyicons.breloom {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -121px -328px;
+}
+.sprite-xyicons.staraptor {
+    width: 23px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -346px -54px;
+}
+.sprite-xyicons.cobalion {
+    width: 20px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -239px -259px;
+}
+.sprite-xyicons.ambipom {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -324px -139px;
+}
+.sprite-xyicons.kadabra {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -293px -197px;
+}
+.sprite-xyicons.rotom-mow {
+    width: 24px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -353px -27px;
+}
+.sprite-xyicons.cofagrigus {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -356px 0;
+}
+.sprite-xyicons.wigglytuff {
+    width: 17px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -208px -290px;
+}
+.sprite-xyicons.gallade-mega {
+    width: 22px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: 0 -357px;
+}
+.sprite-xyicons.gallade {
+    width: 22px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -340px -110px;
+}
+.sprite-xyicons.garchomp-mega {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -24px -357px;
+}
+.sprite-xyicons.swampert {
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -276px -228px;
+}
+.sprite-xyicons.pinsir-mega {
+    width: 31px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -146px -327px;
+}
+.sprite-xyicons.politoed {
+    width: 18px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -56px -357px;
+}
+.sprite-xyicons.suicune {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -324px -166px;
+}
+.sprite-xyicons.combusken {
+    width: 22px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -76px -357px;
+}
+.sprite-xyicons.hydreigon {
+    width: 29px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -261px -259px;
+}
+.sprite-xyicons.conkeldurr {
+    width: 31px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -227px -290px;
+}
+.sprite-xyicons.giratina-origin {
+    width: 28px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -183px -320px;
+}
+.sprite-xyicons.pyroar {
+    width: 32px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -360px -81px;
+}
+.sprite-xyicons.raikou {
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -100px -356px;
+}
+.sprite-xyicons.bunnelby {
+    width: 16px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -371px -54px;
+}
+.sprite-xyicons.golurk {
+    width: 26px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -324px -193px;
+}
+.sprite-xyicons.nidoking {
+    width: 31px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -304px -224px;
+}
+.sprite-xyicons.malamar {
+    width: 24px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -132px -355px;
+}
+.sprite-xyicons.ampharos {
+    width: 20px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: -364px -108px;
+}
+.sprite-xyicons.sawsbuck {
+    width: 23px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -379px -27px;
+}
+.sprite-xyicons.groudon-primal {
+    width: 33px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -355px -137px;
+}
+.sprite-xyicons.gurdurr {
+    width: 27px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -213px -317px;
+}
+.sprite-xyicons.azelf {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: 0 -384px;
+}
+.sprite-xyicons.goodra {
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -28px -384px;
+}
+.sprite-xyicons.gligar {
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -260px -286px;
+}
+.sprite-xyicons.haxorus {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -158px -354px;
+}
+.sprite-xyicons.heliolisk {
+    width: 22px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -292px -255px;
+}
+.sprite-xyicons.glalie-mega {
+    width: 23px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -54px -384px;
+}
+.sprite-xyicons.avalugg {
+    width: 27px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -388px 0;
+}
+.sprite-xyicons.heracross {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -355px -163px;
+}
+.sprite-xyicons.raichu {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -79px -384px;
+}
+.sprite-xyicons.honedge {
+    width: 18px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -389px -53px;
+}
+.sprite-xyicons.giratina {
+    width: 30px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -186px -347px;
+}
+.sprite-xyicons.huntail {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -106px -383px;
+}
+.sprite-xyicons.venomoth {
+    width: 23px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -242px -317px;
+}
+.sprite-xyicons.gengar {
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -386px -108px;
+}
+.sprite-xyicons.azumarill {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -352px -193px;
+}
+.sprite-xyicons.infernape {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -394px -79px;
+}
+.sprite-xyicons.genesect {
+    width: 22px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -337px -220px;
+}
+.sprite-xyicons.gardevoir {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -316px -251px;
+}
+.sprite-xyicons.tyranitar {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -286px -286px;
+}
+.sprite-xyicons.gardevoir-mega {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -133px -382px;
+}
+.sprite-xyicons.venusaur {
+    width: 30px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -404px -26px;
+}
+.sprite-xyicons.exeggutor {
+    width: 17px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -218px -343px;
+}
+.sprite-xyicons.kingdra {
+    width: 20px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: 0 -410px;
+}
+.sprite-xyicons.escavalier {
+    width: 23px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -22px -410px;
+}
+.sprite-xyicons.klefki {
+    width: 27px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -267px -312px;
+}
+.sprite-xyicons.entei {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -409px -52px;
+}
+.sprite-xyicons.groudon {
+    width: 33px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -390px -134px;
+}
+.sprite-xyicons.kricketune {
+    width: 20px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -47px -410px;
+}
+.sprite-xyicons.pangoro {
+    width: 28px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -161px -380px;
+}
+.sprite-xyicons.amaura {
+    width: 17px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -382px -163px;
+}
+.sprite-xyicons.dusclops {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -69px -410px;
+}
+.sprite-xyicons.aerodactyl-mega {
+    width: 32px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -237px -343px;
+}
+.sprite-xyicons.drifblim {
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -417px 0;
+}
+.sprite-xyicons.altaria {
+    width: 20px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -191px -373px;
+}
+.sprite-xyicons.altaria-mega {
+    width: 20px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -316px -277px;
+}
+.sprite-xyicons.latias-mega {
+    width: 35px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -97px -410px;
+}
+.sprite-xyicons.noivern {
+    width: 28px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -361px -219px;
+}
+.sprite-xyicons.latios-mega {
+    width: 35px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -344px -246px;
+}
+.sprite-xyicons.cradily {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -379px -189px;
+}
+.sprite-xyicons.lucario-mega {
+    width: 19px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -412px -105px;
+}
+.sprite-xyicons.sharpedo-mega {
+    width: 21px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -218px -369px;
+}
+.sprite-xyicons.cloyster {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -422px -78px;
+}
+.sprite-xyicons.sharpedo {
+    width: 21px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -134px -408px;
+}
+.sprite-xyicons.shiftry {
+    width: 28px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -296px -312px;
+}
+.sprite-xyicons.snorlax {
+    width: 27px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -401px -160px;
+}
+.sprite-xyicons.magikarp {
+    width: 22px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -271px -338px;
+}
+.sprite-xyicons.chesnaught {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: 0 -436px;
+}
+.sprite-xyicons.magnezone {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -161px -406px;
+}
+.sprite-xyicons.butterfree {
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -436px -26px;
+}
+.sprite-xyicons.manectric-mega {
+    width: 26px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -28px -436px;
+}
+.sprite-xyicons.aggron {
+    width: 29px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -338px -277px;
+}
+.sprite-xyicons.beautifly {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -436px -52px;
+}
+.sprite-xyicons.blastoise {
+    width: 25px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -56px -436px;
+}
+.sprite-xyicons.bisharp {
+    width: 22px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -241px -369px;
+}
+.sprite-xyicons.binacle {
+    width: 16px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -191px -399px;
+}
+.sprite-xyicons.metagross-mega {
+    width: 32px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: -443px 0;
+}
+.sprite-xyicons.sigilyph {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -83px -436px;
+}
+.sprite-xyicons.hariyama {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -425px -131px;
+}
+.sprite-xyicons.crawdaunt {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -326px -303px;
+}
+.sprite-xyicons.bayleef {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -433px -104px;
+}
+.sprite-xyicons.rampardos {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -391px -215px;
+}
+.sprite-xyicons.stoutland {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -406px -186px;
+}
+.sprite-xyicons.crobat {
+    width: 30px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -295px -338px;
+}
+.sprite-xyicons.victreebel {
+    width: 28px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -106px -436px;
+}
+.sprite-xyicons.skuntank {
+    width: 29px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -213px -395px;
+}
+.sprite-xyicons.crustle {
+    width: 28px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -381px -245px;
+}
+.sprite-xyicons.unfezant {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -271px -364px;
+}
+.sprite-xyicons.wormadam {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -136px -434px;
+}
+.sprite-xyicons.seel {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -449px -78px;
+}
+.sprite-xyicons.samurott {
+    width: 31px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -430px -156px;
+}
+.sprite-xyicons.probopass {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -369px -272px;
+}
+.sprite-xyicons.houndoom {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -160px -432px;
+}
+.sprite-xyicons.salamence {
+    width: 32px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: 0 -462px;
+}
+.sprite-xyicons.salamence-mega {
+    width: 32px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -462px -26px;
+}
+.sprite-xyicons.delibird {
+    width: 19px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -327px -328px;
+}
+.sprite-xyicons.primeape {
+    width: 28px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -34px -462px;
+}
+.sprite-xyicons.delphox {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -244px -395px;
+}
+.sprite-xyicons.charmeleon {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -352px -303px;
+}
+.sprite-xyicons.ponyta {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -189px -425px;
+}
+.sprite-xyicons.flygon {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -463px -51px;
+}
+.sprite-xyicons.deoxys-defense {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -64px -462px;
+}
+.sprite-xyicons.swampert-mega {
+    width: 32px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -455px -103px;
+}
+.sprite-xyicons.pidgeot {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -293px -364px;
+}
+.sprite-xyicons.pidgeot-mega {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -418px -211px;
+}
+.sprite-xyicons.wormadam-trash {
+    width: 23px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -451px -129px;
+}
+.sprite-xyicons.rotom-frost {
+    width: 30px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -92px -461px;
+}
+.sprite-xyicons.staravia {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -435px -181px;
+}
+.sprite-xyicons.dewgong {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -215px -420px;
+}
+.sprite-xyicons.beedrill-mega {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -273px -389px;
+}
+.sprite-xyicons.dewott {
+    width: 19px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -411px -240px;
+}
+.sprite-xyicons.zebstrika {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -477px 0;
+}
+.sprite-xyicons.kirlia {
+    width: 18px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -124px -461px;
+}
+.sprite-xyicons.slowbro-mega {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -348px -328px;
+}
+.sprite-xyicons.wailord {
+    width: 30px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -395px -270px;
+}
+.sprite-xyicons.burmy-sandy {
+    width: 15px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -376px -297px;
+}
+.sprite-xyicons.wormadam-sandy {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -144px -459px;
+}
+.sprite-xyicons.doublade {
+    width: 31px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -327px -353px;
+}
+.sprite-xyicons.krookodile {
+    width: 28px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -476px -76px;
+}
+.sprite-xyicons.sylveon {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -242px -420px;
+}
+.sprite-xyicons.dragalge {
+    width: 32px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -182px -450px;
+}
+.sprite-xyicons.pachirisu {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: 0 -487px;
+}
+.sprite-xyicons.clefable {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -24px -487px;
+}
+.sprite-xyicons.girafarig {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -463px -154px;
+}
+.sprite-xyicons.druddigon {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -46px -487px;
+}
+.sprite-xyicons.burmy-trash {
+    width: 16px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -445px -206px;
+}
+.sprite-xyicons.aromatisse {
+    width: 19px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -300px -389px;
+}
+.sprite-xyicons.beedrill {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -432px -236px;
+}
+.sprite-xyicons.bastiodon {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -393px -297px;
+}
+.sprite-xyicons.dusknoir {
+    width: 29px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -75px -487px;
+}
+.sprite-xyicons.rhydon {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -476px -128px;
+}
+.sprite-xyicons.noctowl {
+    width: 18px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -459px -181px;
+}
+.sprite-xyicons.ninetales {
+    width: 24px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -492px -51px;
+}
+.sprite-xyicons.lickilicky {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -216px -445px;
+}
+.sprite-xyicons.liepard {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -377px -322px;
+}
+.sprite-xyicons.nidoqueen {
+    width: 23px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -321px -378px;
+}
+.sprite-xyicons.regirock {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -273px -414px;
+}
+.sprite-xyicons.abomasnow {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -496px -25px;
+}
+.sprite-xyicons.torterra {
+    width: 28px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -106px -486px;
+}
+.sprite-xyicons.loudred {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -489px -101px;
+}
+.sprite-xyicons.glaceon {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -427px -265px;
+}
+.sprite-xyicons.skarmory {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -360px -353px;
+}
+.sprite-xyicons.armaldo {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -170px -475px;
+}
+.sprite-xyicons.lumineon {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -136px -486px;
+}
+.sprite-xyicons.vanilluxe {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -240px -445px;
+}
+.sprite-xyicons.regigigas {
+    width: 32px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -506px 0;
+}
+.sprite-xyicons.regice {
+    width: 25px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -463px -206px;
+}
+.sprite-xyicons.carnivine {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -487px -153px;
+}
+.sprite-xyicons.gourgeist-large {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -479px -179px;
+}
+.sprite-xyicons.magmar {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -506px -76px;
+}
+.sprite-xyicons.gourgeist-small {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: 0 -512px;
+}
+.sprite-xyicons.gourgeist-super {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -302px -414px;
+}
+.sprite-xyicons.gourgeist {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -346px -378px;
+}
+.sprite-xyicons.monferno {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -23px -512px;
+}
+.sprite-xyicons.granbull {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -459px -231px;
+}
+.sprite-xyicons.manectric {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -421px -295px;
+}
+.sprite-xyicons.slurpuff {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -47px -512px;
+}
+.sprite-xyicons.electivire {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -268px -439px;
+}
+.sprite-xyicons.maractus {
+    width: 23px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -198px -475px;
+}
+.sprite-xyicons.arbok {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -69px -512px;
+}
+.sprite-xyicons.masquerain {
+    width: 26px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -405px -322px;
+}
+.sprite-xyicons.slowbro {
+    width: 27px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -325px -403px;
+}
+.sprite-xyicons.mewtwo {
+    width: 20px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -503px -126px;
+}
+.sprite-xyicons.ursaring {
+    width: 21px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -519px -25px;
+}
+.sprite-xyicons.vileplume {
+    width: 22px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -387px -347px;
+}
+.sprite-xyicons.chandelure {
+    width: 29px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -91px -512px;
+}
+.sprite-xyicons.meloetta-pirouette {
+    width: 15px;
+    height: 23px;
+    background-repeat: no-repeat;
+    background-position: -223px -470px;
+}
+.sprite-xyicons.keldeo {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -518px -50px;
+}
+.sprite-xyicons.herdier {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -512px -101px;
+}
+.sprite-xyicons.flaaffy {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -160px -500px;
+}
+.sprite-xyicons.camerupt {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -122px -511px;
+}
+.sprite-xyicons.quilladin {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -456px -261px;
+}
+.sprite-xyicons.hitmontop {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -240px -470px;
+}
+.sprite-xyicons.audino {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -369px -378px;
+}
+.sprite-xyicons.honchkrow {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -296px -439px;
+}
+.sprite-xyicons.deoxys {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -443px -290px;
+}
+.sprite-xyicons.clawitzer {
+    width: 31px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -490px -204px;
+}
+.sprite-xyicons.purrloin {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -183px -500px;
+}
+.sprite-xyicons.shaymin-sky {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -502px -178px;
+}
+.sprite-xyicons.audino-mega {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -530px -74px;
+}
+.sprite-xyicons.rotom-wash {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -483px -231px;
+}
+.sprite-xyicons.prinplup {
+    width: 17px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -354px -403px;
+}
+.sprite-xyicons.braixen {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 -537px;
+}
+.sprite-xyicons.floette {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -325px -428px;
+}
+.sprite-xyicons.rotom-heat {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -22px -537px;
+}
+.sprite-xyicons.diancie-mega {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -516px -151px;
+}
+.sprite-xyicons.diancie {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -272px -464px;
+}
+.sprite-xyicons.bibarel {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -411px -347px;
+}
+.sprite-xyicons.walrein {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -433px -320px;
+}
+.sprite-xyicons.roserade {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -53px -537px;
+}
+.sprite-xyicons.jellicent {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -525px -125px;
+}
+.sprite-xyicons.frogadier {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -540px 0;
+}
+.sprite-xyicons.froslass {
+    width: 16px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -206px -500px;
+}
+.sprite-xyicons.roselia {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -393px -372px;
+}
+.sprite-xyicons.tyrantrum {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -75px -537px;
+}
+.sprite-xyicons.jumpluff {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -542px -24px;
+}
+.sprite-xyicons.carracosta {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -479px -256px;
+}
+.sprite-xyicons.zweilous {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -224px -495px;
+}
+.sprite-xyicons.simisear {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -535px -98px;
+}
+.sprite-xyicons.galvantula {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -151px -524px;
+}
+.sprite-xyicons.aerodactyl {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -545px -48px;
+}
+.sprite-xyicons.kangaskhan-mega {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -107px -537px;
+}
+.sprite-xyicons.swanna {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -292px -464px;
+}
+.sprite-xyicons.garbodor {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -373px -402px;
+}
+.sprite-xyicons.persian {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -346px -428px;
+}
+.sprite-xyicons.keldeo-resolute {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -471px -285px;
+}
+.sprite-xyicons.donphan {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -525px -175px;
+}
+.sprite-xyicons.garchomp {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -181px -524px;
+    top:5px;
+}
+.sprite-xyicons.beartic {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -252px -494px;
+}
+.sprite-xyicons.wynaut {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -435px -344px;
+}
+.sprite-xyicons.alomomola {
+    width: 13px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -324px -452px;
+}
+.sprite-xyicons.turtwig {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -536px -149px;
+}
+.sprite-xyicons.gastrodon {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -554px -72px;
+}
+.sprite-xyicons.dragonair {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -463px -314px;
+}
+.sprite-xyicons.parasect {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -420px -371px;
+}
+.sprite-xyicons.kricketot {
+    width: 17px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -523px -202px;
+}
+.sprite-xyicons.dragonite {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 -561px;
+}
+.sprite-xyicons.drapion {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -277px -488px;
+}
+.sprite-xyicons.skorupi {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -513px -228px;
+}
+.sprite-xyicons.drifloon {
+    width: 15px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -27px -561px;
+}
+.sprite-xyicons.volcarona {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -44px -561px;
+}
+.sprite-xyicons.drowzee {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -339px -452px;
+}
+.sprite-xyicons.buneary {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -565px 0;
+}
+.sprite-xyicons.dugtrio {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -212px -524px;
+}
+.sprite-xyicons.blissey {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -139px -548px;
+}
+.sprite-xyicons.rhyperior {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -72px -561px;
+}
+.sprite-xyicons.glameow {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -371px -427px;
+}
+.sprite-xyicons.blitzle {
+    width: 17px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -405px -396px;
+}
+.sprite-xyicons.omastar {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -566px -24px;
+}
+.sprite-xyicons.tangrowth {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -506px -255px;
+}
+.sprite-xyicons.nuzleaf {
+    width: 16px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -555px -122px;
+}
+.sprite-xyicons.gliscor {
+    width: 31px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -101px -561px;
+}
+.sprite-xyicons.sliggoo {
+    width: 15px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -236px -519px;
+}
+.sprite-xyicons.gogoat {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -563px -96px;
+}
+.sprite-xyicons.latios {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -163px -548px;
+}
+.sprite-xyicons.leafeon {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -463px -338px;
+}
+.sprite-xyicons.golbat {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -556px -146px;
+}
+.sprite-xyicons.amoonguss {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -503px -280px;
+}
+.sprite-xyicons.registeel {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -324px -476px;
+}
+.sprite-xyicons.tentacool {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -253px -518px;
+}
+.sprite-xyicons.whimsicott {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -444px -368px;
+}
+.sprite-xyicons.nidorino {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -487px -309px;
+}
+.sprite-xyicons.nidorina {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -542px -199px;
+}
+.sprite-xyicons.toxicroak {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -576px -48px;
+}
+.sprite-xyicons.burmy {
+    width: 17px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -424px -395px;
+}
+.sprite-xyicons.eelektross {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -365px -452px;
+}
+.sprite-xyicons.chatot {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -193px -548px;
+}
+.sprite-xyicons.lombre {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -556px -170px;
+}
+.sprite-xyicons.lopunny-mega {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -279px -512px;
+}
+.sprite-xyicons.lopunny {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -405px -420px;
+}
+.sprite-xyicons.shuckle {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -579px -72px;
+}
+.sprite-xyicons.electabuzz {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -539px -226px;
+}
+.sprite-xyicons.gothitelle {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -585px 0;
+}
+.sprite-xyicons.tentacruel {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 -585px;
+}
+.sprite-xyicons.solrock {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -573px -120px;
+}
+.sprite-xyicons.serperior {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -27px -585px;
+}
+.sprite-xyicons.beheeyem {
+    width: 15px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -134px -572px;
+}
+.sprite-xyicons.sawk {
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -57px -585px;
+}
+.sprite-xyicons.musharna {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -309px -500px;
+}
+.sprite-xyicons.weavile {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -215px -548px;
+}
+.sprite-xyicons.machamp {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -349px -476px;
+}
+.sprite-xyicons.machoke {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -590px -24px;
+}
+.sprite-xyicons.sandslash {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -81px -585px;
+}
+.sprite-xyicons.graveler {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -467px -362px;
+}
+.sprite-xyicons.magcargo {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -151px -572px;
+}
+.sprite-xyicons.greninja {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -508px -304px;
+}
+.sprite-xyicons.uxie {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -236px -543px;
+}
+.sprite-xyicons.magmortar {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -444px -392px;
+}
+.sprite-xyicons.darmanitan {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -490px -333px;
+}
+.sprite-xyicons.magneton {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -537px -252px;
+}
+.sprite-xyicons.watchog {
+    width: 20px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -525px -279px;
+}
+.sprite-xyicons.wartortle {
+    width: 24px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -108px -585px;
+}
+.sprite-xyicons.mamoswine {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -563px -194px;
+}
+.sprite-xyicons.grovyle {
+    width: 28px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -588px -96px;
+}
+.sprite-xyicons.mandibuzz {
+    width: 16px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -399px -444px;
+}
+.sprite-xyicons.growlithe {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -174px -572px;
+}
+.sprite-xyicons.deerling {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -599px -48px;
+}
+.sprite-xyicons.vigoroth {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -334px -500px;
+}
+.sprite-xyicons.excadrill {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -584px -144px;
+}
+.sprite-xyicons.zangoose {
+    width: 23px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -577px -170px;
+}
+.sprite-xyicons.scolipede {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -433px -419px;
+}
+.sprite-xyicons.miltank {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -264px -542px;
+}
+.sprite-xyicons.milotic {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -563px -218px;
+}
+.sprite-xyicons.mienshao {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -197px -572px;
+}
+.sprite-xyicons.chespin {
+    width: 17px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -607px 0;
+}
+.sprite-xyicons.farfetchd {
+    width: 26px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -307px -524px;
+}
+.sprite-xyicons.fearow {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -378px -476px;
+}
+.sprite-xyicons.ariados {
+    width: 25px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -596px -120px;
+}
+.sprite-xyicons.chimchar {
+    width: 19px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -471px -386px;
+}
+.sprite-xyicons.zoroark {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 -609px;
+}
+.sprite-xyicons.victini {
+    width: 18px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -287px -536px;
+}
+.sprite-xyicons.ferrothorn {
+    width: 30px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -417px -444px;
+}
+.sprite-xyicons.metang {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -605px -72px;
+}
+.sprite-xyicons.meowstic {
+    width: 21px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -31px -609px;
+}
+.sprite-xyicons.metagross {
+    width: 32px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -495px -357px;
+}
+.sprite-xyicons.mesprit {
+    width: 29px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -515px -328px;
+}
+.sprite-xyicons.camerupt-mega {
+    width: 27px;
+    height: 22px;
+    background-repeat: no-repeat;
+    background-position: -134px -596px;
+}
+.sprite-xyicons.meowth {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -54px -609px;
+}
+.sprite-xyicons.slugma {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -547px -276px;
+}
+.sprite-xyicons.archeops {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -563px -242px;
+}
+.sprite-xyicons.slowpoke {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -77px -609px;
+}
+.sprite-xyicons.mawile {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -236px -567px;
+}
+.sprite-xyicons.marshtomp {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -100px -609px;
+}
+.sprite-xyicons.mightyena {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -363px -500px;
+}
+.sprite-xyicons.marowak {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -163px -596px;
+}
+.sprite-xyicons.togetic {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -618px -24px;
+}
+.sprite-xyicons.mime.jr\. {
+    width: 14px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -540px -303px;
+}
+.sprite-xyicons.bellossom {
+    width: 16px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -619px -47px;
+}
+.sprite-xyicons.abra {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -335px -524px;
+}
+.sprite-xyicons.boldore {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -410px -468px;
+}
+.sprite-xyicons.bouffalant {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -592px -194px;
+}
+.sprite-xyicons.bronzong {
+    width: 27px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -464px -416px;
+}
+.sprite-xyicons.skrelp {
+    width: 18px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -264px -566px;
+}
+.sprite-xyicons.smeargle {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -187px -596px;
+}
+.sprite-xyicons.yanmega {
+    width: 30px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -495px -381px;
+}
+.sprite-xyicons.murkrow {
+    width: 19px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -566px -265px;
+}
+.sprite-xyicons.luxio {
+    width: 30px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -602px -168px;
+}
+.sprite-xyicons.lucario {
+    width: 16px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -618px -96px;
+}
+.sprite-xyicons.xatu {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -626px 0;
+}
+.sprite-xyicons.simipour {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -307px -548px;
+}
+.sprite-xyicons.sneasel {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -287px -560px;
+}
+.sprite-xyicons.lilligant {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -592px -217px;
+}
+.sprite-xyicons.chimecho {
+    width: 15px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -449px -443px;
+}
+.sprite-xyicons.shinx {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -224px -590px;
+}
+.sprite-xyicons.ledian {
+    width: 19px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -556px -299px;
+}
+.sprite-xyicons.cinccino {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -615px -144px;
+}
+.sprite-xyicons.leavanny {
+    width: 14px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -122px -620px;
+}
+.sprite-xyicons.shelgon {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: 0 -633px;
+}
+.sprite-xyicons.latias {
+    width: 27px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -22px -633px;
+}
+.sprite-xyicons.claydol {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -390px -500px;
+}
+.sprite-xyicons.tauros {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -623px -119px;
+}
+.sprite-xyicons.wobbuffet {
+    width: 18px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -54px -632px;
+}
+.sprite-xyicons.octillery {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -138px -620px;
+}
+.sprite-xyicons.lapras {
+    width: 24px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -529px -352px;
+}
+.sprite-xyicons.lanturn {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -360px -524px;
+}
+.sprite-xyicons.seismitoad {
+    width: 28px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -546px -326px;
+}
+.sprite-xyicons.spinda {
+    width: 15px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -74px -632px;
+}
+.sprite-xyicons.scrafty {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -493px -404px;
+}
+.sprite-xyicons.kyogre {
+    width: 33px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -637px -23px;
+}
+.sprite-xyicons.kyogre-primal {
+    width: 33px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -634px -70px;
+}
+.sprite-xyicons.krokorok {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -91px -632px;
+}
+.sprite-xyicons.panpour {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -591px -242px;
+}
+.sprite-xyicons.pansage {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -637px -46px;
+}
+.sprite-xyicons.delcatty {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -436px -468px;
+}
+.sprite-xyicons.baltoy {
+    width: 16px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -163px -619px;
+}
+.sprite-xyicons.krabby {
+    width: 28px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -466px -439px;
+}
+.sprite-xyicons.duskull {
+    width: 18px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -250px -590px;
+}
+.sprite-xyicons.scatterbug {
+    width: 14px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -412px -491px;
+}
+.sprite-xyicons.pelipper {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -333px -548px;
+}
+.sprite-xyicons.ekans {
+    width: 18px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -636px -93px;
+}
+.sprite-xyicons.kangaskhan {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -587px -265px;
+}
+.sprite-xyicons.phantump {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -577px -288px;
+}
+.sprite-xyicons.kabutops {
+    width: 19px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -181px -619px;
+}
+.sprite-xyicons.espeon {
+    width: 27px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -645px 0;
+}
+.sprite-xyicons.jolteon {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -306px -571px;
+}
+.sprite-xyicons.feebas {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -270px -589px;
+}
+.sprite-xyicons.vespiquen {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -611px -217px;
+}
+.sprite-xyicons.pignite {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -529px -375px;
+}
+.sprite-xyicons.flareon {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -620px -191px;
+}
+.sprite-xyicons.piloswine {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -213px -613px;
+}
+.sprite-xyicons.sableye {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -387px -523px;
+}
+.sprite-xyicons.pinsir {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -428px -491px;
+}
+.sprite-xyicons.sableye-mega {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -358px -547px;
+}
+.sprite-xyicons.sunflora {
+    width: 19px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -118px -643px;
+}
+.sprite-xyicons.poliwrath {
+    width: 29px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -496px -427px;
+}
+.sprite-xyicons.rufflet {
+    width: 17px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -515px -404px;
+}
+.sprite-xyicons.floatzel {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -460px -466px;
+}
+.sprite-xyicons.porygon-z {
+    width: 21px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -577px -311px;
+}
+.sprite-xyicons.sudowoodo {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -555px -349px;
+}
+.sprite-xyicons.tyrogue {
+    width: 13px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -289px -583px;
+}
+.sprite-xyicons.floette-eternal {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -634px -167px;
+}
+.sprite-xyicons.umbreon {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: 0 -656px;
+}
+.sprite-xyicons.psyduck {
+    width: 18px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -22px -656px;
+}
+.sprite-xyicons.fraxure {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -641px -142px;
+}
+.sprite-xyicons.purugly {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -51px -655px;
+}
+.sprite-xyicons.rotom-fan {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -237px -613px;
+}
+.sprite-xyicons.furret {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -139px -643px;
+}
+.sprite-xyicons.gabite {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -328px -571px;
+}
+.sprite-xyicons.gastly {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -412px -514px;
+}
+.sprite-xyicons.gloom {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -614px -240px;
+}
+.sprite-xyicons.unown {
+    width: 10px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -76px -655px;
+}
+.sprite-xyicons.reuniclus {
+    width: 30px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -650px -116px;
+}
+.sprite-xyicons.golduck {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -659px -46px;
+}
+.sprite-xyicons.meloetta {
+    width: 14px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -88px -655px;
+}
+.sprite-xyicons.raticate {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -656px -93px;
+}
+.sprite-xyicons.rattata {
+    width: 20px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -164px -642px;
+}
+.sprite-xyicons.grotle {
+    width: 22px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -534px -398px;
+}
+.sprite-xyicons.relicanth {
+    width: 25px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -381px -547px;
+}
+.sprite-xyicons.vanillish {
+    width: 15px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -612px -265px;
+}
+.sprite-xyicons.gorebyss {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -304px -594px;
+}
+.sprite-xyicons.vaporeon {
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -202px -636px;
+}
+.sprite-xyicons.golem {
+    width: 26px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -265px -613px;
+}
+.sprite-xyicons.deino {
+    width: 16px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -453px -491px;
+}
+.sprite-xyicons.gothorita {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -555px -372px;
+}
+.sprite-xyicons.heatran {
+    width: 33px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -579px -334px;
+}
+.sprite-xyicons.hippowdon {
+    width: 28px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -604px -288px;
+}
+.sprite-xyicons.rhyhorn {
+    width: 24px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -496px -450px;
+}
+.sprite-xyicons.glalie {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -353px -571px;
+}
+.sprite-xyicons.hitmonchan {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -672px -23px;
+}
+.sprite-xyicons.quilava {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -645px -190px;
+}
+.sprite-xyicons.quagsire {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -669px -69px;
+}
+.sprite-xyicons.frillish {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -639px -214px;
+}
+.sprite-xyicons.hoothoot {
+    width: 17px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -674px 0;
+}
+.sprite-xyicons.hoppip {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -104px -666px;
+}
+.sprite-xyicons.bagon {
+    width: 15px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -437px -514px;
+}
+.sprite-xyicons.houndour {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -227px -636px;
+}
+.sprite-xyicons.illumise {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -410px -537px;
+}
+.sprite-xyicons.fletchinder {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -600px -311px;
+}
+.sprite-xyicons.inkay {
+    width: 18px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -128px -666px;
+}
+.sprite-xyicons.ivysaur {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -487px -472px;
+}
+.sprite-xyicons.jigglypuff {
+    width: 18px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -527px -427px;
+}
+.sprite-xyicons.pikachu {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: 0 -679px;
+}
+.sprite-xyicons.jirachi {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -42px -678px;
+}
+.sprite-xyicons.vibrava {
+    width: 25px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -659px -165px;
+}
+.sprite-xyicons.pidgeotto {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -579px -356px;
+}
+.sprite-xyicons.jynx {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -332px -594px;
+}
+.sprite-xyicons.emolga {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -639px -236px;
+}
+.sprite-xyicons.elekid {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -66px -678px;
+}
+.sprite-xyicons.kecleon {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -374px -570px;
+}
+.sprite-xyicons.pawniard {
+    width: 14px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -186px -642px;
+}
+.sprite-xyicons.volbeat {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -629px -263px;
+}
+.sprite-xyicons.swoobat {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -148px -666px;
+}
+.sprite-xyicons.vulpix {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -668px -139px;
+}
+.sprite-xyicons.paras {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -471px -494px;
+}
+.sprite-xyicons.pansear {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -248px -636px;
+}
+.sprite-xyicons.articuno {
+    width: 27px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -293px -617px;
+}
+.sprite-xyicons.spoink {
+    width: 14px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -23px -679px;
+}
+.sprite-xyicons.seadra {
+    width: 24px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -558px -394px;
+}
+.sprite-xyicons.seaking {
+    width: 25px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -173px -665px;
+}
+.sprite-xyicons.spiritomb {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -454px -516px;
+}
+.sprite-xyicons.treecko {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -686px -45px;
+}
+.sprite-xyicons.heatmor {
+    width: 28px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -683px -91px;
+}
+.sprite-xyicons.anorith {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -522px -450px;
+}
+.sprite-xyicons.weepinbell {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -202px -659px;
+}
+.sprite-xyicons.accelgor {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -431px -538px;
+}
+.sprite-xyicons.servine {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -547px -421px;
+}
+.sprite-xyicons.seviper {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -355px -593px;
+}
+.sprite-xyicons.cryogonal {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -270px -636px;
+}
+.sprite-xyicons.corsola {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -682px -116px;
+}
+.sprite-xyicons.larvitar {
+    width: 15px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -408px -559px;
+}
+.sprite-xyicons.teddiursa {
+    width: 16px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -693px 0;
+}
+.sprite-xyicons.snubbull {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -660px -212px;
+}
+.sprite-xyicons.noibat {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -89px -688px;
+}
+.sprite-xyicons.snover {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -510px -472px;
+}
+.sprite-xyicons.shellos {
+    width: 17px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -634px -285px;
+}
+.sprite-xyicons.shieldon {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -692px -67px;
+}
+.sprite-xyicons.ninjask {
+    width: 23px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -695px -22px;
+}
+.sprite-xyicons.tranquill {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -670px -187px;
+}
+.sprite-xyicons.lileep {
+    width: 18px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -584px -378px;
+}
+.sprite-xyicons.cherrim {
+    width: 16px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -322px -617px;
+}
+.sprite-xyicons.chansey {
+    width: 19px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -227px -658px;
+}
+.sprite-xyicons.nidoran-m {
+    width: 18px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -624px -310px;
+}
+.sprite-xyicons.linoone {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -112px -688px;
+}
+.sprite-xyicons.litleo {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -614px -333px;
+}
+.sprite-xyicons.castform {
+    width: 13px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -495px -494px;
+}
+.sprite-xyicons.terrakion {
+    width: 29px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -602px -356px;
+}
+.sprite-xyicons.smoochum {
+    width: 14px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -651px -258px;
+}
+.sprite-xyicons.machop {
+    width: 16px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: 0 -701px;
+}
+.sprite-xyicons.skitty {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -39px -700px;
+}
+.sprite-xyicons.buizel {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -136px -688px;
+}
+.sprite-xyicons.throh {
+    width: 28px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -291px -639px;
+}
+.sprite-xyicons.magby {
+    width: 16px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -18px -701px;
+}
+.sprite-xyicons.mothim {
+    width: 25px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -61px -700px;
+}
+.sprite-xyicons.bonsly {
+    width: 12px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -477px -516px;
+}
+.sprite-xyicons.manaphy {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -425px -560px;
+}
+.sprite-xyicons.mankey {
+    width: 28px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -248px -658px;
+}
+.sprite-xyicons.zubat {
+    width: 21px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -396px -581px;
+}
+.sprite-xyicons.mareep {
+    width: 22px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -340px -616px;
+}
+.sprite-xyicons.meditite {
+    width: 17px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -690px -138px;
+}
+.sprite-xyicons.axew {
+    width: 18px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -547px -443px;
+}
+.sprite-xyicons.bulbasaur {
+    width: 20px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -664px -234px;
+}
+.sprite-xyicons.elgyem {
+    width: 13px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -380px -592px;
+}
+.sprite-xyicons.makuhita {
+    width: 18px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -686px -161px;
+}
+.sprite-xyicons.banette {
+    width: 22px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -456px -538px;
+}
+.sprite-xyicons.surskit {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -159px -688px;
+}
+.sprite-xyicons.corphish {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -571px -416px;
+}
+.sprite-xyicons.hitmonlee {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -708px -44px;
+}
+.sprite-xyicons.trapinch {
+    width: 19px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -200px -681px;
+}
+.sprite-xyicons.pineco {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -510px -494px;
+}
+.sprite-xyicons.munchlax {
+    width: 14px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -653px -280px;
+}
+.sprite-xyicons.mantine {
+    width: 30px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -711px 0;
+}
+.sprite-xyicons.piplup {
+    width: 13px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -184px -687px;
+}
+.sprite-xyicons.plusle {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -533px -472px;
+}
+.sprite-xyicons.gible {
+    width: 19px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -491px -516px;
+}
+.sprite-xyicons.ducklett {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -604px -378px;
+}
+.sprite-xyicons.poliwhirl {
+    width: 22px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -644px -307px;
+}
+.sprite-xyicons.whiscash {
+    width: 24px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -705px -113px;
+}
+.sprite-xyicons.torchic {
+    width: 13px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -667px -255px;
+}
+.sprite-xyicons.hoopa-alt {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -683px -209px;
+}
+.sprite-xyicons.nidoran-f {
+    width: 18px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -691px -182px;
+}
+.sprite-xyicons.hoopa {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -364px -615px;
+}
+.sprite-xyicons.stunky {
+    width: 26px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -321px -639px;
+}
+.sprite-xyicons.scyther {
+    width: 19px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -88px -710px;
+}
+.sprite-xyicons.klang {
+    width: 27px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -221px -681px;
+}
+.sprite-xyicons.dunsparce {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -594px -400px;
+}
+.sprite-xyicons.duosion {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -714px -65px;
+}
+.sprite-xyicons.charmander {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -278px -661px;
+}
+.sprite-xyicons.pumpkaboo-large {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -419px -582px;
+}
+.sprite-xyicons.pumpkaboo-small {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -449px -560px;
+}
+.sprite-xyicons.pumpkaboo-super {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -109px -710px;
+}
+.sprite-xyicons.pumpkaboo {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -637px -332px;
+}
+.sprite-xyicons.pupitar {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -713px -89px;
+}
+.sprite-xyicons.cranidos {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -571px -437px;
+}
+.sprite-xyicons.froakie {
+    width: 18px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -720px -21px;
+}
+.sprite-xyicons.chikorita {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -395px -603px;
+}
+.sprite-xyicons.clefairy {
+    width: 18px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -551px -465px;
+}
+.sprite-xyicons.grumpig {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -480px -538px;
+}
+.sprite-xyicons.azurill {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -128px -710px;
+}
+.sprite-xyicons.shedinja {
+    width: 20px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -709px -134px;
+}
+.sprite-xyicons.qwilfish {
+    width: 24px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -36px -722px;
+}
+.sprite-xyicons.dustox {
+    width: 26px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: 0 -723px;
+}
+.sprite-xyicons.carvanha {
+    width: 19px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -686px -230px;
+}
+.sprite-xyicons.snorunt {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -669px -276px;
+}
+.sprite-xyicons.oddish {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -529px -494px;
+}
+.sprite-xyicons.eelektrik {
+    width: 21px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -706px -160px;
+}
+.sprite-xyicons.lunatone {
+    width: 13px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -250px -680px;
+}
+.sprite-xyicons.happiny {
+    width: 14px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -145px -710px;
+}
+.sprite-xyicons.goldeen {
+    width: 24px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -62px -722px;
+}
+.sprite-xyicons.shuppet {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -633px -355px;
+}
+.sprite-xyicons.fennekin {
+    width: 17px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -512px -515px;
+}
+.sprite-xyicons.hawlucha {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -301px -661px;
+}
+.sprite-xyicons.togekiss {
+    width: 28px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -161px -709px;
+}
+.sprite-xyicons.pancham {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -349px -638px;
+}
+.sprite-xyicons.zapdos {
+    width: 29px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -622px -378px;
+}
+.sprite-xyicons.chinchou {
+    width: 22px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -594px -421px;
+}
+.sprite-xyicons.timburr {
+    width: 24px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -682px -255px;
+}
+.sprite-xyicons.aipom {
+    width: 24px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -438px -582px;
+}
+.sprite-xyicons.chingling {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -468px -559px;
+}
+.sprite-xyicons.mienfoo {
+    width: 18px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -199px -702px;
+}
+.sprite-xyicons.braviary {
+    width: 25px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -412px -603px;
+}
+.sprite-xyicons.larvesta {
+    width: 20px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -265px -682px;
+}
+.sprite-xyicons.clamperl {
+    width: 19px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -669px -297px;
+}
+.sprite-xyicons.vullaby {
+    width: 22px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -571px -458px;
+}
+.sprite-xyicons.cubone {
+    width: 20px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -656px -328px;
+}
+.sprite-xyicons.swellow {
+    width: 23px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -711px -181px;
+}
+.sprite-xyicons.minccino {
+    width: 22px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -366px -636px;
+}
+.sprite-xyicons.minun {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -733px -42px;
+}
+.sprite-xyicons.misdreavus {
+    width: 16px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -706px -203px;
+}
+.sprite-xyicons.pichu {
+    width: 15px;
+    height: 19px;
+    background-repeat: no-repeat;
+    background-position: -551px -486px;
+}
+.sprite-xyicons.trubbish {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -617px -399px;
+}
+.sprite-xyicons.litwick {
+    width: 13px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -732px -65px;
+}
+.sprite-xyicons.skiddo {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -219px -702px;
+}
+.sprite-xyicons.silcoon {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -390px -624px;
+}
+.sprite-xyicons.bergmite {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -731px -86px;
+}
+.sprite-xyicons.budew {
+    width: 12px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -326px -660px;
+}
+.sprite-xyicons.cascoon {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -88px -731px;
+}
+.sprite-xyicons.shellder {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -505px -537px;
+}
+.sprite-xyicons.celebi {
+    width: 14px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -731px -106px;
+}
+.sprite-xyicons.cherubi {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -111px -731px;
+}
+.sprite-xyicons.combee {
+    width: 25px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -686px -276px;
+}
+.sprite-xyicons.cubchoo {
+    width: 14px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -650px -353px;
+}
+.sprite-xyicons.cyndaquil {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -531px -515px;
+}
+.sprite-xyicons.wailmer {
+    width: 24px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -287px -682px;
+}
+.sprite-xyicons.doduo {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -740px -21px;
+}
+.sprite-xyicons.dratini {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -595px -442px;
+}
+.sprite-xyicons.sealeo {
+    width: 26px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -707px -224px;
+}
+.sprite-xyicons.eevee {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -238px -702px;
+}
+.sprite-xyicons.espurr {
+    width: 16px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -731px -126px;
+}
+.sprite-xyicons.exeggcute {
+    width: 24px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -340px -660px;
+}
+.sprite-xyicons.sandshrew {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -131px -731px;
+}
+.sprite-xyicons.finneon {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -743px 0;
+}
+.sprite-xyicons.flabebe {
+    width: 15px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -28px -743px;
+}
+.sprite-xyicons.starly {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -464px -581px;
+}
+.sprite-xyicons.starmie {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: 0 -744px;
+}
+.sprite-xyicons.forretress {
+    width: 23px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -45px -743px;
+}
+.sprite-xyicons.riolu {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -729px -155px;
+}
+.sprite-xyicons.golett {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -571px -479px;
+}
+.sprite-xyicons.ralts {
+    width: 14px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -493px -559px;
+}
+.sprite-xyicons.gothita {
+    width: 14px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -439px -603px;
+}
+.sprite-xyicons.grimer {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -618px -419px;
+}
+.sprite-xyicons.porygon {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -153px -731px;
+}
+.sprite-xyicons.poochyena {
+    width: 21px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -191px -723px;
+}
+.sprite-xyicons.hippopotas {
+    width: 24px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -413px -624px;
+}
+.sprite-xyicons.sunkern {
+    width: 13px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -70px -743px;
+}
+.sprite-xyicons.igglybuff {
+    width: 15px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -257px -703px;
+}
+.sprite-xyicons.kakuna {
+    width: 13px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -708px -244px;
+}
+.sprite-xyicons.lampent {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -678px -318px;
+}
+.sprite-xyicons.swalot {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -747px -63px;
+}
+.sprite-xyicons.ledyba {
+    width: 16px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -553px -507px;
+}
+.sprite-xyicons.lickitung {
+    width: 23px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -313px -682px;
+}
+.sprite-xyicons.lillipup {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -690px -296px;
+}
+.sprite-xyicons.petilil {
+    width: 12px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -174px -730px;
+}
+.sprite-xyicons.totodile {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -526px -536px;
+}
+.sprite-xyicons.torkoal {
+    width: 23px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -724px -202px;
+}
+.sprite-xyicons.patrat {
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -666px -349px;
+}
+.sprite-xyicons.palpitoad {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -653px -373px;
+}
+.sprite-xyicons.togepi {
+    width: 16px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -366px -657px;
+}
+.sprite-xyicons.oshawott {
+    width: 16px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -751px -41px;
+}
+.sprite-xyicons.tangela {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -390px -644px;
+}
+.sprite-xyicons.omanyte {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -595px -462px;
+}
+.sprite-xyicons.numel {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -214px -723px;
+}
+.sprite-xyicons.nosepass {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -640px -399px;
+}
+.sprite-xyicons.metapod {
+    width: 12px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -747px -106px;
+}
+.sprite-xyicons.natu {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -274px -703px;
+}
+.sprite-xyicons.tepig {
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -509px -557px;
+}
+.sprite-xyicons.moltres {
+    width: 28px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -750px -83px;
+}
+.sprite-xyicons.mudkip {
+    width: 19px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -455px -603px;
+}
+.sprite-xyicons.mr\..mime {
+    width: 17px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-position: -85px -751px;
+}
+.sprite-xyicons.staryu {
+    width: 17px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -485px -580px;
+}
+.sprite-xyicons.wurmple {
+    width: 18px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -736px -175px;
+}
+.sprite-xyicons.marill {
+    width: 23px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -618px -439px;
+}
+.sprite-xyicons.mantyke {
+    width: 20px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -104px -751px;
+}
+.sprite-xyicons.clauncher {
+    width: 24px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -571px -499px;
+}
+.sprite-xyicons.luvdisc {
+    width: 12px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -235px -722px;
+}
+.sprite-xyicons.wooper {
+    width: 20px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -338px -680px;
+}
+.sprite-xyicons.phione {
+    width: 23px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -749px -126px;
+}
+.sprite-xyicons.pidgey {
+    width: 18px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -713px -264px;
+}
+.sprite-xyicons.sewaddle {
+    width: 15px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -293px -702px;
+}
+.sprite-xyicons.lairon {
+    width: 23px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -126px -751px;
+}
+.sprite-xyicons.zorua {
+    width: 16px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -439px -623px;
+}
+.sprite-xyicons.skiploom {
+    width: 19px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -749px -145px;
+}
+.sprite-xyicons.croagunk {
+    width: 17px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -723px -244px;
+}
+.sprite-xyicons.snivy {
+    width: 20px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -763px -20px;
+}
+.sprite-xyicons.spewpa {
+    width: 16px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -21px -763px;
+}
+.sprite-xyicons.karrablast {
+    width: 12px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -553px -527px;
+}
+.sprite-xyicons.weedle {
+    width: 16px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -411px -644px;
+}
+.sprite-xyicons.darmanitan-zen {
+    width: 20px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -39px -763px;
+}
+.sprite-xyicons.dedenne {
+    width: 22px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -249px -723px;
+}
+.sprite-xyicons.seedot {
+    width: 15px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: 0 -764px;
+}
+.sprite-xyicons.tyrunt {
+    width: 20px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -765px 0;
+}
+.sprite-xyicons.horsea {
+    width: 18px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -61px -763px;
+}
+.sprite-xyicons.helioptile {
+    width: 18px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -641px -419px;
+}
+.sprite-xyicons.gulpin {
+    width: 17px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -151px -751px;
+}
+.sprite-xyicons.porygon2 {
+    width: 19px;
+    height: 21px;
+    background-repeat: no-repeat;
+    background-position: -188px -741px;
+    top: 5px !important;
+}
+.sprite-xyicons.drilbur {
+    width: 21px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -688px -338px;
+}
+.sprite-xyicons.dwebble {
+    width: 19px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -476px -601px;
+}
+.sprite-xyicons.squirtle {
+    width: 21px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -384px -664px;
+}
+.sprite-xyicons.cacnea {
+    width: 22px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -699px -316px;
+}
+.sprite-xyicons.beldum {
+    width: 19px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -713px -283px;
+}
+.sprite-xyicons.foongus {
+    width: 14px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -659px -393px;
+}
+.sprite-xyicons.roggenrola {
+    width: 11px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: -597px -482px;
+}
+.sprite-xyicons.bidoof {
+    width: 20px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -310px -702px;
+}
+.sprite-xyicons.sandile {
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -529px -556px;
+}
+.sprite-xyicons.remoraid {
+    width: 17px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -673px -369px;
+}
+.sprite-xyicons.spritzee {
+    width: 15px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -504px -579px;
+}
+.sprite-xyicons.scraggy {
+    width: 15px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -735px -222px;
+}
+.sprite-xyicons.vanillite {
+    width: 12px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -761px -103px;
+}
+.sprite-xyicons.durant {
+    width: 24px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -617px -458px;
+}
+.sprite-xyicons.bronzor {
+    width: 13px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -360px -680px;
+}
+.sprite-xyicons.basculin {
+    width: 18px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -769px -39px;
+}
+.sprite-xyicons.pidove {
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -170px -751px;
+}
+.sprite-xyicons.yanma {
+    width: 28px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -571px -518px;
+}
+.sprite-xyicons.spheal {
+    width: 19px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -769px -57px;
+}
+.sprite-xyicons.yamask {
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -209px -743px;
+}
+.sprite-xyicons.joltik {
+    width: 21px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -457px -623px;
+}
+.sprite-xyicons.ferroseed {
+    width: 15px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -273px -723px;
+}
+.sprite-xyicons.swablu {
+    width: 19px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -756px -164px;
+}
+.sprite-xyicons.zigzagoon {
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -749px -194px;
+}
+.sprite-xyicons.spearow {
+    width: 19px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -429px -644px;
+}
+.sprite-xyicons.klink {
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -81px -771px;
+}
+.sprite-xyicons.whirlipede {
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -338px -699px;
+}
+.sprite-xyicons.caterpie {
+    width: 14px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -105px -770px;
+}
+.sprite-xyicons.whismur {
+    width: 17px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -553px -546px;
+}
+.sprite-xyicons.swadloon {
+    width: 20px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -521px -577px;
+}
+.sprite-xyicons.shaymin {
+    width: 18px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -610px -482px;
+}
+.sprite-xyicons.cleffa {
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -643px -438px;
+}
+.sprite-xyicons.phanpy {
+    width: 20px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -675px -387px;
+}
+.sprite-xyicons.swirlix {
+    width: 17px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -293px -721px;
+}
+.sprite-xyicons.electrode {
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: -235px -742px;
+}
+.sprite-xyicons.archen {
+    width: 21px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -497px -599px;
+}
+.sprite-xyicons.electrike {
+    width: 19px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -692px -357px;
+}
+.sprite-xyicons.poliwag {
+    width: 20px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -733px -263px;
+}
+.sprite-xyicons.geodude {
+    width: 24px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -407px -664px;
+}
+.sprite-xyicons.bellsprout {
+    width: 20px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -661px -412px;
+}
+.sprite-xyicons.slakoth {
+    width: 25px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -375px -683px;
+}
+.sprite-xyicons.fletchling {
+    width: 18px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -597px -501px;
+}
+.sprite-xyicons.taillow {
+    width: 18px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -121px -770px;
+}
+.sprite-xyicons.magnemite {
+    width: 23px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -742px -240px;
+}
+.sprite-xyicons.tirtouga {
+    width: 23px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -752px -212px;
+}
+.sprite-xyicons.shroomish {
+    width: 18px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -775px -103px;
+}
+.sprite-xyicons.woobat {
+    width: 20px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -17px -782px;
+}
+.sprite-xyicons.shelmet {
+    width: 18px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -141px -770px;
+}
+.sprite-xyicons.lotad {
+    width: 17px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -39px -782px;
+}
+.sprite-xyicons.darumaka {
+    width: 17px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: -774px -121px;
+}
+.sprite-xyicons.venipede {
+    width: 18px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -770px -145px;
+}
+.sprite-xyicons.munna {
+    width: 15px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: 0 -783px;
+}
+.sprite-xyicons.wingull {
+    width: 26px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -723px -302px;
+}
+.sprite-xyicons.cottonee {
+    width: 21px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -780px -75px;
+}
+.sprite-xyicons.diglett {
+    width: 15px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -572px -536px;
+}
+.sprite-xyicons.nincada {
+    width: 23px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -253px -742px;
+}
+.sprite-xyicons.spinarak {
+    width: 18px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -450px -642px;
+}
+.sprite-xyicons.stunfisk {
+    width: 20px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -480px -620px;
+}
+.sprite-xyicons.voltorb {
+    width: 14px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -58px -782px;
+}
+.sprite-xyicons.solosis {
+    width: 15px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -312px -720px;
+}
+.sprite-xyicons.goomy {
+    width: 12px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-position: -188px -762px;
+}
+.sprite-xyicons.carbink {
+    width: 14px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -785px -19px;
+}
+.sprite-xyicons.kabuto {
+    width: 16px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -734px -280px;
+}
+.sprite-xyicons.tympole {
+    width: 14px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -711px -335px;
+}
+.sprite-xyicons.swinub {
+    width: 18px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -161px -770px;
+}
+.sprite-xyicons.ditto {
+    width: 16px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -787px 0;
+}
+.sprite-xyicons.barboach {
+    width: 21px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-position: -661px -429px;
+}
+.sprite-xyicons.aron {
+    width: 16px;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-position: -362px -700px;
+}
+.sprite-xyicons.tynamo {
+    width: 14px;
+    height: 11px;
+    background-repeat: no-repeat;
+    background-position: -692px -374px;
+}
+
+.sprite-xyicons.rowlet{background-position:-380px -870px;width:30px;height:30px;}
+.sprite-xyicons.dartrix{background-position:-570px -900px;width:30px;height:30px;}
+.sprite-xyicons.decidueye{background-position:-600px -900px;width:30px;height:30px;}
+.sprite-xyicons.litten{background-position:-410px -870px;width:30px;height:30px;}
+.sprite-xyicons.torracat{background-position:-630px -900px;width:30px;height:30px;}
+.sprite-xyicons.incineroar{background-position:-660px -900px;width:30px;height:30px;}
+.sprite-xyicons.popplio{background-position:-440px -870px;width:30px;height:30px;}
+.sprite-xyicons.brionne{background-position:-690px -900px;width:30px;height:30px;}
+.sprite-xyicons.primarina{background-position:-720px -900px;width:30px;height:30px;}
+.sprite-xyicons.pikipek{background-position:-470px -870px;width:30px;height:30px;}
+.sprite-xyicons.trumbeak{background-position:-750px -900px;width:30px;height:30px;}
+.sprite-xyicons.toucannon{background-position:-780px -900px;width:30px;height:30px;}
+.sprite-xyicons.yungoos{background-position:-500px -870px;width:30px;height:30px;}
+.sprite-xyicons.gumshoos{background-position:-530px -870px;width:30px;height:30px;}
+.sprite-xyicons.grubbin{background-position:-560px -870px;width:30px;height:30px;}
+.sprite-xyicons.charjabug{background-position:-900px -420px;width:30px;height:30px;}
+.sprite-xyicons.vikavolt{background-position:-590px -870px;width:30px;height:30px;}
+.sprite-xyicons.crabrawler{background-position:-930px -420px;width:29px;height:30px;}
+.sprite-xyicons.crabominable{background-position:-860px -870px;width:37px;height:30px;}
+.sprite-xyicons.oricorio-pom-pom{background-position:-900px -450px;width:30px;height:30px;}
+.sprite-xyicons.oricorio-pa\'u{background-position:-930px -450px;width:26px;height:30px;}
+.sprite-xyicons.oricorio-sensu{background-position:-900px -480px;width:30px;height:30px;}
+.sprite-xyicons.oricorio{background-position:-930px -480px;width:26px;height:30px;}
+.sprite-xyicons.cutiefly{background-position:-620px -870px;width:30px;height:30px;}
+.sprite-xyicons.ribombee{background-position:-900px -510px;width:30px;height:30px;}
+.sprite-xyicons.rockruff{background-position:-650px -870px;width:30px;height:30px;}
+.sprite-xyicons.lycanroc{background-position:-360px -900px;width:30px;height:30px;}
+.sprite-xyicons.lycanroc-midnight{background-position:-930px -510px;width:27px;height:30px;}
+.sprite-xyicons.wishiwashi{background-position:-420px -900px;width:30px;height:30px;}
+.sprite-xyicons.wishiwashi-school{background-position:-930px -600px;width:29px;height:30px;}
+.sprite-xyicons.mareanie{background-position:-210px -930px;width:30px;height:29px;}
+.sprite-xyicons.toxapex{background-position:-240px -930px;width:30px;height:30px;}
+.sprite-xyicons.mudbray{background-position:-270px -930px;width:30px;height:30px;}
+.sprite-xyicons.mudsdale{background-position:-680px -870px;width:30px;height:30px;}
+.sprite-xyicons.dewpider{background-position:-300px -930px;width:30px;height:29px;}
+.sprite-xyicons.araquanid{background-position:-330px -930px;width:30px;height:30px;}
+.sprite-xyicons.fomantis{background-position:-390px -900px;width:30px;height:30px;}
+.sprite-xyicons.lurantis{background-position:-710px -870px;width:30px;height:30px;}
+.sprite-xyicons.morelull{background-position:-510px -900px;width:30px;height:30px;}
+.sprite-xyicons.shiinotic{background-position:-900px -540px;width:30px;height:30px;}
+.sprite-xyicons.salandit{background-position:-740px -870px;width:30px;height:30px;}
+.sprite-xyicons.salazzle{background-position:-930px -540px;width:28px;height:30px;}
+.sprite-xyicons.stufful{background-position:-900px -570px;width:30px;height:30px;}
+.sprite-xyicons.bewear{background-position:-770px -870px;width:30px;height:30px;}
+.sprite-xyicons.bounsweet{background-position:-800px -870px;width:30px;height:30px;}
+.sprite-xyicons.steenee{background-position:-930px -570px;width:26px;height:30px;}
+.sprite-xyicons.tsareena{background-position:-900px -600px;width:30px;height:30px;}
+.sprite-xyicons.comfey{background-position:-830px -870px;width:30px;height:30px;}
+.sprite-xyicons.oranguru{background-position:-900px -630px;width:30px;height:30px;}
+.sprite-xyicons.passimian{background-position:-540px -900px;width:30px;height:30px;}
+.sprite-xyicons.wimpod{background-position:0 -900px;width:30px;height:30px;}
+.sprite-xyicons.golisopod{background-position:-930px -630px;width:29px;height:30px;}
+.sprite-xyicons.sandygast{background-position:-450px -900px;width:30px;height:30px;}
+.sprite-xyicons.palossand{background-position:-480px -900px;width:30px;height:30px;}
+.sprite-xyicons.pyukumuku{background-position:-900px -660px;width:30px;height:30px;}
+.sprite-xyicons.type-null{background-position:-930px -660px;width:29px;height:30px;}
+.sprite-xyicons.type\:.null{background-position:-930px -660px;width:29px;height:30px;}
+.sprite-xyicons.silvally{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-ground{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-fire{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-steel{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-ghost{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-flying{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-poison{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-fairy{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-grass{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-water{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-electric{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-bug{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-dark{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-rock{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-psychic{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-ice{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-dragon{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.silvally-fighting{background-position:-900px -690px;width:30px;height:30px;}
+.sprite-xyicons.minior{background-position:-930px -690px;width:29px;height:30px;}
+.sprite-xyicons.minior-core{background-position:-660px -930px;width:30px;height:29px;}
+.sprite-xyicons.komala{background-position:-30px -900px;width:30px;height:30px;}
+.sprite-xyicons.turtonator{background-position:-900px -720px;width:30px;height:30px;}
+.sprite-xyicons.togedemaru{background-position:-60px -900px;width:30px;height:30px;}
+.sprite-xyicons.mimikyu{background-position:-90px -900px;width:30px;height:30px;}
+.sprite-xyicons.mimikyu-busted{background-position:-90px -900px;width:30px;height:30px;}
+.sprite-xyicons.bruxish{background-position:-120px -900px;width:30px;height:30px;}
+.sprite-xyicons.drampa{background-position:-150px -900px;width:30px;height:30px;}
+.sprite-xyicons.dhelmise{background-position:-930px -720px;width:26px;height:30px;}
+.sprite-xyicons.jangmo-o{background-position:-300px -900px;width:30px;height:30px;}
+.sprite-xyicons.hakamo-o{background-position:-330px -900px;width:30px;height:30px;}
+.sprite-xyicons.kommo-o{background-position:-900px -750px;width:30px;height:30px;}
+.sprite-xyicons.tapu.koko{background-position:-180px -900px;width:30px;height:30px;}
+.sprite-xyicons.tapu.lele{background-position:-931px -750px;width:25px;height:30px;left:-4px;}
+.sprite-xyicons.tapu.bulu{background-position:-900px -780px;width:30px;height:30px;}
+.sprite-xyicons.tapu.fini{background-position:-930px -780px;width:26px;height:30px;}
+.sprite-xyicons.cosmog{background-position:-900px -810px;width:30px;height:30px;}
+.sprite-xyicons.cosmoem{background-position:-930px -810px;width:30px;height:30px;}
+.sprite-xyicons.solgaleo{background-position:-210px -900px;width:30px;height:30px;}
+.sprite-xyicons.lunala{background-position:-900px -840px;width:30px;height:30px;}
+.sprite-xyicons.nihilego{background-position:-930px -840px;width:30px;height:29px;}
+.sprite-xyicons.buzzwole{background-position:-900px -870px;width:30px;height:30px;}
+.sprite-xyicons.pheromosa{background-position:-930px -870px;width:30px;height:30px;}
+.sprite-xyicons.xurkitree{background-position:-150px -930px;width:30px;height:30px;}
+.sprite-xyicons.celesteela{background-position:-82px -870px;width:36px;height:30px;}
+.sprite-xyicons.kartana{background-position:-120px -870px;width:36px;height:30px;}
+.sprite-xyicons.guzzlord{background-position:-160px -870px;width:39px;height:30px;}
+.sprite-xyicons.necrozma{background-position:-180px -930px;width:30px;height:30px;}
+.sprite-xyicons.magearna{background-position:-240px -900px;width:30px;height:30px;}
+.sprite-xyicons.magearna-pokeball{background-position: -515px -930px;width: 21px;height: 29px;}
+.sprite-xyicons.marshadow{background-position:-480px -930px;width:30px;height:30px;}
+.sprite-xyicons.marowak-alola{background-position: -1082px -930px;width:30px;height:30px;}
+.sprite-xyicons.golem-alola{background-position: -60px -930px;width:30px;height:30px;}
+.sprite-xyicons.graveler-alola{background-position: -90px -930px;width:30px;height:30px;}
+.sprite-xyicons.raticate-alola{background-position: 570px -930px;width:30px;height:30px;}
+.sprite-xyicons.rattata-alola{background-position: 598px -930px;width:30px;height:30px;}
+.sprite-xyicons.dugtrio-alola{background-position: -902px -900px;width:30px;height:30px;}
+.sprite-xyicons.diglett-alola{background-position: -871px -900px;width:30px;height:30px;}
+.sprite-xyicons.meowth-alola{background-position: -929px -900px;width:30px;height:30px;}
+.sprite-xyicons.ninetales-alola{background-position: -1279px -870px;width:30px;height:30px;}
+.sprite-xyicons.vulpix-alola{background-position: -1249px -870px;width:30px;height:30px;}
+.sprite-xyicons.sandshrew-alola{background-position: -1219px -870px;width:30px;height:30px;}
+.sprite-xyicons.raichu-alola{background-position: 150px -900px;width:30px;height:30px;}
+.sprite-xyicons.muk-alola{background-position: 513px -930px;width:37px;height:30px;}
+.sprite-xyicons.grimer-alola{background-position: 540px -930px;width:30px;height:30px;}
+.sprite-xyicons.persian-alola{background-position: 0px -930px;width:30px;height:30px;}
+.sprite-xyicons.exeggutor-alola{background-position: -1310px -870px;width:30px;height:30px;}
+.sprite-xyicons.sandslash-alola{background-position: -840px -900px;width:30px;height:30px;}
+.sprite-xyicons.greninja-ash{background-position: -270px -900px;width:30px;height:30px;}
