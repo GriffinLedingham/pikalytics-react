@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 import values from 'lodash/values'
 
 import PokedexList from './pokedexList'
-import PokedexContent from './pokedexContent'
+import PokedexContent from './pokedexContent/pokedexContent'
 import PokedexHeader from './pokedexHeader'
 
 import { BrowserRouter, Route, Switch, IndexRoute } from 'react-router-dom'
