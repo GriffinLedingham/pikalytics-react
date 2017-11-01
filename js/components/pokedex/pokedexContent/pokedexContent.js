@@ -31,7 +31,6 @@ class PokedexContent extends React.Component {
 
   render () {
     const { currentPokemon, pokemonAll, pokemonList } = this.props
-    console.log(pokemonAll)
     let pokemonData = pokemonAll.get(this.props.match.params.name)
     if(!this.props.match.params.hasOwnProperty('name') && pokemonList.first()) {
       pokemonData = pokemonList.first()

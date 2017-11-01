@@ -3,7 +3,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 import values from 'lodash/values'
 
-import { fetchPokemonList, paginatePokemonList } from '../../actions/pokemon'
+import { fetchPokemonList, paginatePokemonList, changeFormat } from '../../actions/pokemon'
 
 import API from '../../classes/api'
 
@@ -16,7 +16,7 @@ class PokedexList extends React.Component {
   componentWillReceiveProps (nextProps) {
     if(nextProps.hasOwnProperty('format')) {
       if(nextProps.format !== this.props.format) {
-        this.props.fetchPokemonList(nextProps.format, 25)
+        this.props.changeFormat(nextProps.format, 25)
       }
     }
   }
@@ -59,4 +59,4 @@ export default connect(state => ({
   pokemonList: state.pokemon.get('pokemonList'),
   formatList: state.format.get('formatList'),
   page: state.pokemon.get('page')
-}), {fetchPokemonList, paginatePokemonList})(PokedexList)
+}), {fetchPokemonList, paginatePokemonList, changeFormat})(PokedexList)

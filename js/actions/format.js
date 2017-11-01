@@ -10,7 +10,7 @@ function fetchFormatsComplete (formatsList) {
   }
 }
 
-export function fetchFormats (name) {
+export function fetchFormats () {
   return dispatch => {
     return apiRequest(`/f`).then((r)=>{
       dispatch(fetchFormatsComplete(r))
