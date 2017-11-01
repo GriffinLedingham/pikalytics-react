@@ -23,7 +23,7 @@ class App extends React.Component {
       <div className="App">
         <Header />
         <Switch>
-          <Route path="/pokedex" component={Pokedex} />
+          <Route path="/pokedex/:format" component={Pokedex} />
           <Route path="/" component={Home} />
         </Switch>
       </div>

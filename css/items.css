@@ -1,0 +1,4702 @@
+.sprite-xyitems {
+    background-image: url(/assets/smitems_v2.png);
+}
+.sprite-xyitems.blue_tent {
+    width: 51px;
+    height: 66px;
+
+    background-repeat: no-repeat;
+    background-position: 0 0
+}
+.sprite-xyitems.red_tent {
+    width: 50px;
+    height: 65px;
+
+    background-repeat: no-repeat;
+    background-position: -53px 0
+}
+.sprite-xyitems.slide {
+    width: 32px;
+    height: 64px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -68px
+}
+.sprite-xyitems.fissure_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -68px
+}
+.sprite-xyitems.fire_blast_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -105px 0
+}
+.sprite-xyitems.surf_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -84px -67px
+}
+.sprite-xyitems.hard_desk {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -118px
+}
+.sprite-xyitems.brick_desk {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -134px -50px
+}
+.sprite-xyitems.attract_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -84px -117px
+}
+.sprite-xyitems.spikes_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -155px 0
+}
+.sprite-xyitems.camp_desk {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -134px -100px
+}
+.sprite-xyitems.powder_snow_mat {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -168px
+}
+.sprite-xyitems.pretty_desk {
+    width: 48px;
+    height: 48px;
+
+    background-repeat: no-repeat;
+    background-position: -50px -168px
+}
+.sprite-xyitems.rhydon_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -134px
+}
+.sprite-xyitems.registeel_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -184px -50px
+}
+.sprite-xyitems.ylw_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -100px -167px
+}
+.sprite-xyitems.wht_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -134px -150px
+}
+.sprite-xyitems.yellow_brick {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -184px -84px
+}
+.sprite-xyitems.card_key {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -205px 0
+}
+.sprite-xyitems.charizard_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -218px
+}
+.sprite-xyitems.clear_bell {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -184px -118px
+}
+.sprite-xyitems.colorful_plant {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -202px -84px
+}
+.sprite-xyitems.regirock_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -218px -34px
+}
+.sprite-xyitems.wailmer_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -218px
+}
+.sprite-xyitems.venusaur_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -100px -201px
+}
+.sprite-xyitems.regice_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -168px -152px
+}
+.sprite-xyitems.tropical_plant {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -134px -184px
+}
+.sprite-xyitems.tire {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -239px 0
+}
+.sprite-xyitems.fast_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -152px -186px
+}
+.sprite-xyitems.big_onix {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -68px -235px
+}
+.sprite-xyitems.big_plant {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -236px -68px
+}
+.sprite-xyitems.big_snorlax {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -218px -118px
+}
+.sprite-xyitems.friend_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -252px
+}
+.sprite-xyitems.glass_ornament {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -202px -152px
+}
+.sprite-xyitems.gold_shield {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -252px
+}
+.sprite-xyitems.gold_trophy {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -252px -34px
+}
+.sprite-xyitems.gorgeous_plant {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -102px -235px
+}
+.sprite-xyitems.stand {
+    width: 64px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -136px -220px
+}
+.sprite-xyitems.blastoise_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -186px -186px
+}
+.sprite-xyitems.grn_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -220px -152px
+}
+.sprite-xyitems.squirtbottle {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -252px -102px
+}
+.sprite-xyitems.blk_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -273px 0
+}
+.sprite-xyitems.heavy_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -269px
+}
+.sprite-xyitems.heavy_desk {
+    width: 48px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -270px -68px
+}
+.sprite-xyitems.blu_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -86px -269px
+}
+.sprite-xyitems.red_scale {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -286px
+}
+.sprite-xyitems.red_plant {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -286px
+}
+.sprite-xyitems.solid_board {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -34px
+}
+.sprite-xyitems.lapras_doll {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -220px -186px
+}
+.sprite-xyitems.level_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -254px -136px
+}
+.sprite-xyitems.love_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -136px -254px
+}
+.sprite-xyitems.lure_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -202px -220px
+}
+.sprite-xyitems.machine_part {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -102px
+}
+.sprite-xyitems.red_orb {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -170px -254px
+}
+.sprite-xyitems.red_brick {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -254px -170px
+}
+.sprite-xyitems.blue_brick {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -304px -34px
+}
+.sprite-xyitems.moon_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -307px 0
+}
+.sprite-xyitems.silver_wing {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -303px
+}
+.sprite-xyitems.silver_trophy {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -120px -288px
+}
+.sprite-xyitems.silver_shield {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -86px -303px
+}
+.sprite-xyitems.red_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -288px -136px
+}
+.sprite-xyitems.park_ball {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -320px
+}
+.sprite-xyitems.pass {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -272px -170px
+}
+.sprite-xyitems.pink_bed {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -34px -320px
+}
+.sprite-xyitems.pnk_apricorn {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -236px -220px
+}
+.sprite-xyitems.secret_key {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -322px -34px
+}
+.sprite-xyitems.polkadot_bed {
+    width: 16px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -204px -254px
+}
+.sprite-xyitems.blue_card {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -154px -288px
+}
+.sprite-xyitems.blue_orb {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -320px -68px
+}
+.sprite-xyitems.rainbow_wing {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -320px -102px
+}
+.sprite-xyitems.ragecandy_bar {
+    width: 32px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -222px -254px
+}
+.sprite-xyitems.ragged_desk {
+    width: 48px;
+    height: 32px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -322px
+}
+.sprite-xyitems.jumbo_plant {
+    width: 16px;
+    height: 31px;
+
+    background-repeat: no-repeat;
+    background-position: -270px -204px
+}
+.sprite-xyitems.comfort_desk {
+    width: 48px;
+    height: 31px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -337px
+}
+.sprite-xyitems.maranga_berry {
+    width: 30px;
+    height: 30px;
+
+    background-repeat: no-repeat;
+    background-position: -341px 0
+}
+.sprite-xyitems.pretty_flowers {
+    width: 18px;
+    height: 30px;
+
+    background-repeat: no-repeat;
+    background-position: -188px -288px
+}
+.sprite-xyitems.kee_berry {
+    width: 30px;
+    height: 30px;
+
+    background-repeat: no-repeat;
+    background-position: -322px -136px
+}
+.sprite-xyitems.old_sea_map {
+    width: 28px;
+    height: 28px;
+
+    background-repeat: no-repeat;
+    background-position: -306px -170px
+}
+.sprite-xyitems.griseous_orb {
+    width: 28px;
+    height: 27px;
+
+    background-repeat: no-repeat;
+    background-position: -288px -204px
+}
+.sprite-xyitems.tv {
+    width: 30px;
+    height: 27px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -354px
+}
+.sprite-xyitems.snorlax_doll {
+    width: 29px;
+    height: 27px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -288px
+}
+.sprite-xyitems.breakable_door {
+    width: 16px;
+    height: 27px;
+
+    background-repeat: no-repeat;
+    background-position: -32px -354px
+}
+.sprite-xyitems.magnet {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -154px -322px
+}
+.sprite-xyitems.carbos {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -356px -32px
+}
+.sprite-xyitems.armor_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -270px -237px
+}
+.sprite-xyitems.cell_battery {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -354px -68px
+}
+.sprite-xyitems.charcoal {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -354px -94px
+}
+.sprite-xyitems.aspear_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -256px -263px
+}
+.sprite-xyitems.charizardite_x {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -180px -322px
+}
+.sprite-xyitems.charizardite_y {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -102px -356px
+}
+.sprite-xyitems.white_flute {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -373px 0
+}
+.sprite-xyitems.charti_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -50px -370px
+}
+.sprite-xyitems.cheri_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -354px -120px
+}
+.sprite-xyitems.cherish_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -239px -289px
+}
+.sprite-xyitems.chesto_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -336px -168px
+}
+.sprite-xyitems.wepear_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -318px -200px
+}
+.sprite-xyitems.chilan_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -296px -233px
+}
+.sprite-xyitems.chill_drive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -76px -370px
+}
+.sprite-xyitems.choice_band {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -128px -356px
+}
+.sprite-xyitems.choice_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -317px
+}
+.sprite-xyitems.choice_specs {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -154px -348px
+}
+.sprite-xyitems.chople_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -382px -26px
+}
+.sprite-xyitems.claw_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -383px
+}
+.sprite-xyitems.cleanse_tag {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -380px -58px
+}
+.sprite-xyitems.assault_vest {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -282px -263px
+}
+.sprite-xyitems.weakness_policy {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -380px -84px
+}
+.sprite-xyitems.wave_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -362px -146px
+}
+.sprite-xyitems.coba_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -180px -348px
+}
+.sprite-xyitems.coin_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -265px -289px
+}
+.sprite-xyitems.colbur_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -322px -226px
+}
+.sprite-xyitems.zoom_lens {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -317px
+}
+.sprite-xyitems.watmel_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -344px -194px
+}
+.sprite-xyitems.audinite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -102px -382px
+}
+.sprite-xyitems.contest_pass {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -380px -110px
+}
+.sprite-xyitems.cornn_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -396px
+}
+.sprite-xyitems.cover_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -399px 0
+}
+.sprite-xyitems.custap_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -396px
+}
+.sprite-xyitems.water_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -206px -343px
+}
+.sprite-xyitems.water_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -308px -259px
+}
+.sprite-xyitems.wailmer_pail {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -128px -382px
+}
+.sprite-xyitems.auroraticket {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -154px -374px
+}
+.sprite-xyitems.damp_mulch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -370px -172px
+}
+.sprite-xyitems.damp_rock {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -315px
+}
+.sprite-xyitems.dark_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -408px -26px
+}
+.sprite-xyitems.wacan_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -409px
+}
+.sprite-xyitems.venusaurite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -406px -52px
+}
+.sprite-xyitems.dawn_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -291px -289px
+}
+.sprite-xyitems.awakening {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -388px -136px
+}
+.sprite-xyitems.deep_sea_scale {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -348px -220px
+}
+.sprite-xyitems.deep_sea_tooth {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -406px -78px
+}
+.sprite-xyitems.destiny_knot {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -232px -343px
+}
+.sprite-xyitems.devon_goods {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -180px -374px
+}
+.sprite-xyitems.devon_scope {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -408px
+}
+.sprite-xyitems.ultra_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -334px -252px
+}
+.sprite-xyitems.diancite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -406px -104px
+}
+.sprite-xyitems.tyranitarite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -408px
+}
+.sprite-xyitems.dire_hit {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -206px -369px
+}
+.sprite-xyitems.twisted_spoon {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -422px
+}
+.sprite-xyitems.dive_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -374px -198px
+}
+.sprite-xyitems.dome_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -425px 0
+}
+.sprite-xyitems.douse_drive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -422px
+}
+.sprite-xyitems.draco_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -315px
+}
+.sprite-xyitems.dragon_fang {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -317px -285px
+}
+.sprite-xyitems.dragon_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -396px -162px
+}
+.sprite-xyitems.absolite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -408px
+}
+.sprite-xyitems.dragon_scale {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -341px
+}
+.sprite-xyitems.yellow_shard {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -400px
+}
+.sprite-xyitems.dread_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -414px -130px
+}
+.sprite-xyitems.dubious_disc {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -434px -26px
+}
+.sprite-xyitems.durin_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -435px
+}
+.sprite-xyitems.dusk_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -432px -52px
+}
+.sprite-xyitems.dusk_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -232px -369px
+}
+.sprite-xyitems.tri-pass {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -374px -224px
+}
+.sprite-xyitems.toxic_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -360px -250px
+}
+.sprite-xyitems.earth_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -432px -78px
+}
+.sprite-xyitems.toxic_orb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -400px
+}
+.sprite-xyitems.eject_button {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -434px
+}
+.sprite-xyitems.electirizer {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -343px -278px
+}
+.sprite-xyitems.electric_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -400px -188px
+}
+.sprite-xyitems.town_map {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -315px
+}
+.sprite-xyitems.tm_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -432px -104px
+}
+.sprite-xyitems.babiri_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -341px
+}
+.sprite-xyitems.elixir {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -434px
+}
+.sprite-xyitems.energy_root {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -395px
+}
+.sprite-xyitems.energypowder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -258px -367px
+}
+.sprite-xyitems.enigma_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -448px
+}
+.sprite-xyitems.eon_ticket {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -422px -156px
+}
+.sprite-xyitems.escape_rope {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -451px 0
+}
+.sprite-xyitems.ether {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -448px
+}
+.sprite-xyitems.everstone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -434px
+}
+.sprite-xyitems.eviolite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -400px -214px
+}
+.sprite-xyitems.expert_belt {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -426px
+}
+.sprite-xyitems.explorer_kit {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -343px -304px
+}
+.sprite-xyitems.tinymushroom {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -440px -130px
+}
+.sprite-xyitems.timer_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -395px
+}
+.sprite-xyitems.thunderstone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -386px -250px
+}
+.sprite-xyitems.fame_checker {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -460px -26px
+}
+.sprite-xyitems.fashion_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -369px -276px
+}
+.sprite-xyitems.yellow_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -458px -52px
+}
+.sprite-xyitems.thick_club {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -461px
+}
+.sprite-xyitems.tanga_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -341px
+}
+.sprite-xyitems.fighting_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -426px
+}
+.sprite-xyitems.tamato_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -426px -182px
+}
+.sprite-xyitems.swampertite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -284px -367px
+}
+.sprite-xyitems.figy_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -458px -78px
+}
+.sprite-xyitems.yellow_flute {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -460px
+}
+.sprite-xyitems.fire_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -421px
+}
+.sprite-xyitems.absorb_bulb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -458px -104px
+}
+.sprite-xyitems.fire_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -393px
+}
+.sprite-xyitems.super_rod {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -460px
+}
+.sprite-xyitems.banettite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -330px
+}
+.sprite-xyitems.fist_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -426px -208px
+}
+.sprite-xyitems.flame_orb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -448px -156px
+}
+.sprite-xyitems.flame_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -474px
+}
+.sprite-xyitems.float_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -412px -240px
+}
+.sprite-xyitems.fluffy_tail {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -369px -302px
+}
+.sprite-xyitems.flying_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -474px
+}
+.sprite-xyitems.super_repel {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -477px 0
+}
+.sprite-xyitems.super_potion {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -460px
+}
+.sprite-xyitems.focus_band {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -452px
+}
+.sprite-xyitems.focus_sash {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -310px -367px
+}
+.sprite-xyitems.fresh_water {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -421px
+}
+.sprite-xyitems.basement_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -395px -276px
+}
+.sprite-xyitems.full_heal {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -466px -130px
+}
+.sprite-xyitems.full_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -393px
+}
+.sprite-xyitems.full_restore {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -486px -26px
+}
+.sprite-xyitems.sun_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -484px -52px
+}
+.sprite-xyitems.galactic_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -487px
+}
+.sprite-xyitems.galladite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -452px
+}
+.sprite-xyitems.ganlon_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -452px -182px
+}
+.sprite-xyitems.garchompite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -484px -78px
+}
+.sprite-xyitems.gardevoirite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -356px
+}
+.sprite-xyitems.suite_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -330px
+}
+.sprite-xyitems.gengarite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -486px
+}
+.sprite-xyitems.storage_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -447px
+}
+.sprite-xyitems.ghost_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -419px
+}
+.sprite-xyitems.stone_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -484px -104px
+}
+.sprite-xyitems.sticky_barb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -438px -234px
+}
+.sprite-xyitems.glalitite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -486px
+}
+.sprite-xyitems.yache_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -395px -302px
+}
+.sprite-xyitems.stick {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -452px -208px
+}
+.sprite-xyitems.beedrillite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -421px -266px
+}
+.sprite-xyitems.gold_teeth {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -474px -156px
+}
+.sprite-xyitems.belue_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -500px
+}
+.sprite-xyitems.good_rod {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -393px
+}
+.sprite-xyitems.gooey_mulch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -500px
+}
+.sprite-xyitems.berry_juice {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -478px
+}
+.sprite-xyitems.steelixite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -503px 0
+}
+.sprite-xyitems.grass_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -486px
+}
+.sprite-xyitems.steel_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -447px
+}
+.sprite-xyitems.starf_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -419px
+}
+.sprite-xyitems.stardust {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -492px -130px
+}
+.sprite-xyitems.great_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -356px
+}
+.sprite-xyitems.star_piece {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -328px
+}
+.sprite-xyitems.berry_pouch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -382px
+}
+.sprite-xyitems.green_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -478px -182px
+}
+.sprite-xyitems.green_shard {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -478px
+}
+.sprite-xyitems.grepa_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -421px -292px
+}
+.sprite-xyitems.grip_claw {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -510px -52px
+}
+.sprite-xyitems.bicycle {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -512px -26px
+}
+.sprite-xyitems.big_mushroom {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -513px
+}
+.sprite-xyitems.ground_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -445px
+}
+.sprite-xyitems.stable_mulch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -510px -78px
+}
+.sprite-xyitems.acro_bike {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -473px
+}
+.sprite-xyitems.growth_mulch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -447px -260px
+}
+.sprite-xyitems.sprayduck {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -512px
+}
+.sprite-xyitems.gyaradosite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -464px -234px
+}
+.sprite-xyitems.haban_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -510px -104px
+}
+.sprite-xyitems.spooky_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -478px -208px
+}
+.sprite-xyitems.big_pearl {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -419px
+}
+.sprite-xyitems.hard_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -512px
+}
+.sprite-xyitems.heal_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -500px -156px
+}
+.sprite-xyitems.heal_powder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -526px
+}
+.sprite-xyitems.heart_scale {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -354px
+}
+.sprite-xyitems.heat_rock {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -504px
+}
+.sprite-xyitems.adamant_orb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -421px -318px
+}
+.sprite-xyitems.splash_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -382px
+}
+.sprite-xyitems.big_root {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -473px
+}
+.sprite-xyitems.helix_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -512px
+}
+.sprite-xyitems.heracronite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -526px
+}
+.sprite-xyitems.hondew_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -445px
+}
+.sprite-xyitems.honey {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -529px 0
+}
+.sprite-xyitems.houndoominite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -408px
+}
+.sprite-xyitems.hp_up {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -447px -286px
+}
+.sprite-xyitems.hyper_potion {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -518px -130px
+}
+.sprite-xyitems.iapapa_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -504px -182px
+}
+.sprite-xyitems.ice_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -504px
+}
+.sprite-xyitems.ice_heal {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -471px
+}
+.sprite-xyitems.zinc {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -536px -52px
+}
+.sprite-xyitems.icicle_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -538px -26px
+}
+.sprite-xyitems.spelon_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -539px
+}
+.sprite-xyitems.icy_rock {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -473px -260px
+}
+.sprite-xyitems.spell_tag {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -344px
+}
+.sprite-xyitems.insect_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -499px
+}
+.sprite-xyitems.iron {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -536px -78px
+}
+.sprite-xyitems.iron_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -490px -234px
+}
+.sprite-xyitems.iron_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -445px
+}
+.sprite-xyitems.itemfinder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -538px
+}
+.sprite-xyitems.jaboca_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -380px
+}
+.sprite-xyitems.soul_dew {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -447px -312px
+}
+.sprite-xyitems.journal {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -504px -208px
+}
+.sprite-xyitems.bike_voucher {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -536px -104px
+}
+.sprite-xyitems.soothe_bell {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -408px
+}
+.sprite-xyitems.kangaskhanite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -538px
+}
+.sprite-xyitems.kasib_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -526px -156px
+}
+.sprite-xyitems.kebia_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -434px
+}
+.sprite-xyitems.soot_sack {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -471px
+}
+.sprite-xyitems.binding_band {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -499px
+}
+.sprite-xyitems.kelpsy_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -530px
+}
+.sprite-xyitems.kings_rock {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -552px
+}
+.sprite-xyitems.black_belt {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -473px -286px
+}
+.sprite-xyitems.soft_sand {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -538px
+}
+.sprite-xyitems.lagging_tail {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -552px
+}
+.sprite-xyitems.lansat_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -555px 0
+}
+.sprite-xyitems.black_flute {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -370px
+}
+.sprite-xyitems.lava_cookie {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -544px -130px
+}
+.sprite-xyitems.lax_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -344px
+}
+.sprite-xyitems.leaf_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -530px -182px
+}
+.sprite-xyitems.leftovers {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -530px
+}
+.sprite-xyitems.lemonade {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -497px
+}
+.sprite-xyitems.leppa_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -499px -260px
+}
+.sprite-xyitems.letter {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -406px
+}
+.sprite-xyitems.black_glasses {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -562px -52px
+}
+.sprite-xyitems.liechi_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -564px -26px
+}
+.sprite-xyitems.life_orb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -525px
+}
+.sprite-xyitems.lift_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -471px
+}
+.sprite-xyitems.light_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -565px
+}
+.sprite-xyitems.light_clay {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -434px
+}
+.sprite-xyitems.soda_pop {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -516px -234px
+}
+.sprite-xyitems.loot_sack {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -473px -312px
+}
+.sprite-xyitems.lopunnite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -562px -78px
+}
+.sprite-xyitems.snowball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -530px -208px
+}
+.sprite-xyitems.black_sludge {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -564px
+}
+.sprite-xyitems.lucarionite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -460px
+}
+.sprite-xyitems.luck_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -562px -104px
+}
+.sprite-xyitems.lucky_egg {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -497px
+}
+.sprite-xyitems.lucky_punch {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -564px
+}
+.sprite-xyitems.lum_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -552px -156px
+}
+.sprite-xyitems.luminous_moss {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -396px
+}
+.sprite-xyitems.lunar_wing {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -525px
+}
+.sprite-xyitems.aerodactylite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -499px -286px
+}
+.sprite-xyitems.lustrous_orb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -370px
+}
+.sprite-xyitems.luxury_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -338px
+}
+.sprite-xyitems.mach_bike {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -556px
+}
+.sprite-xyitems.blastoisinite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -578px
+}
+.sprite-xyitems.macho_brace {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -564px
+}
+.sprite-xyitems.blazikenite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -578px
+}
+.sprite-xyitems.smooth_rock {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -581px 0
+}
+.sprite-xyitems.magma_emblem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -432px
+}
+.sprite-xyitems.magmarizer {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -523px
+}
+.sprite-xyitems.smoke_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -570px -130px
+}
+.sprite-xyitems.abomasite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -556px -182px
+}
+.sprite-xyitems.mago_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -556px
+}
+.sprite-xyitems.magost_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -525px -260px
+}
+.sprite-xyitems.mail {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -460px
+}
+.sprite-xyitems.manectite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -497px
+}
+.sprite-xyitems.aggronite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -499px -312px
+}
+.sprite-xyitems.slowbronite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -551px
+}
+.sprite-xyitems.aguav_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -588px -52px
+}
+.sprite-xyitems.master_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -542px -234px
+}
+.sprite-xyitems.mawilite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -590px -26px
+}
+.sprite-xyitems.max_elixir {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -591px
+}
+.sprite-xyitems.max_ether {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -486px
+}
+.sprite-xyitems.max_potion {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -422px
+}
+.sprite-xyitems.max_repel {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -364px
+}
+.sprite-xyitems.max_revive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -588px -78px
+}
+.sprite-xyitems.meadow_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -396px
+}
+.sprite-xyitems.medichamite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -556px -208px
+}
+.sprite-xyitems.member_card {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -590px
+}
+.sprite-xyitems.mental_herb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -523px
+}
+.sprite-xyitems.sky_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -588px -104px
+}
+.sprite-xyitems.metagrossite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -525px -286px
+}
+.sprite-xyitems.metal_coat {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -338px
+}
+.sprite-xyitems.metal_powder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -551px
+}
+.sprite-xyitems.meteorite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -578px -156px
+}
+.sprite-xyitems.metronome {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -590px
+}
+.sprite-xyitems.skull_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -458px
+}
+.sprite-xyitems.mewtwonite_x {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -582px
+}
+.sprite-xyitems.mewtwonite_y {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -590px
+}
+.sprite-xyitems.micle_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -604px
+}
+.sprite-xyitems.mind_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -604px
+}
+.sprite-xyitems.miracle_seed {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -607px 0
+}
+.sprite-xyitems.sitrus_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -486px
+}
+.sprite-xyitems.moomoo_milk {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -549px
+}
+.sprite-xyitems.x_speed {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -523px
+}
+.sprite-xyitems.moon_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -390px
+}
+.sprite-xyitems.silverpowder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -551px -260px
+}
+.sprite-xyitems.air_balloon {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -582px
+}
+.sprite-xyitems.muscle_band {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -582px -182px
+}
+.sprite-xyitems.mystic_water {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -596px -130px
+}
+.sprite-xyitems.mysticticket {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -525px -312px
+}
+.sprite-xyitems.nanab_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -422px
+}
+.sprite-xyitems.alakazite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -448px
+}
+.sprite-xyitems.nest_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -577px
+}
+.sprite-xyitems.net_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -512px
+}
+.sprite-xyitems.never-melt_ice {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -364px
+}
+.sprite-xyitems.nomel_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -568px -234px
+}
+.sprite-xyitems.normal_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -614px -52px
+}
+.sprite-xyitems.x_defend {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -616px -26px
+}
+.sprite-xyitems.nugget {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -617px
+}
+.sprite-xyitems.occa_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -582px -208px
+}
+.sprite-xyitems.odd_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -614px -78px
+}
+.sprite-xyitems.odd_keystone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -549px
+}
+.sprite-xyitems.silph_scope {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -338px
+}
+.sprite-xyitems.old_amber {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -551px -286px
+}
+.sprite-xyitems.old_charm {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -616px
+}
+.sprite-xyitems.old_gateau {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -484px
+}
+.sprite-xyitems.old_rod {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -577px
+}
+.sprite-xyitems.blue_flute {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -614px -104px
+}
+.sprite-xyitems.oran_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -604px -156px
+}
+.sprite-xyitems.oval_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -616px
+}
+.sprite-xyitems.pal_pad {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -416px
+}
+.sprite-xyitems.pamtre_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -608px
+}
+.sprite-xyitems.parcel {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -512px
+}
+.sprite-xyitems.zap_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -448px
+}
+.sprite-xyitems.x_attack {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -390px
+}
+.sprite-xyitems.passho_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -616px
+}
+.sprite-xyitems.payapa_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -630px
+}
+.sprite-xyitems.pearl {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -474px
+}
+.sprite-xyitems.pecha_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -575px
+}
+.sprite-xyitems.persim_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -549px
+}
+.sprite-xyitems.petaya_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -630px
+}
+.sprite-xyitems.silk_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -577px -260px
+}
+.sprite-xyitems.pidgeotite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -633px 0
+}
+.sprite-xyitems.shuca_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -551px -312px
+}
+.sprite-xyitems.shock_drive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -608px -182px
+}
+.sprite-xyitems.shoal_shell {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -608px
+}
+.sprite-xyitems.shoal_salt {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -364px
+}
+.sprite-xyitems.shiny_stone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -538px
+}
+.sprite-xyitems.shell_bell {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -622px -130px
+}
+.sprite-xyitems.pinap_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -603px
+}
+.sprite-xyitems.blue_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -594px -234px
+}
+.sprite-xyitems.pink_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -510px
+}
+.sprite-xyitems.pinsirite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -640px -52px
+}
+.sprite-xyitems.pixie_plate {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -338px
+}
+.sprite-xyitems.plume_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -575px
+}
+.sprite-xyitems.blue_shard {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -642px -26px
+}
+.sprite-xyitems.poffin_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -608px -208px
+}
+.sprite-xyitems.point_card {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -643px
+}
+.sprite-xyitems.poison_barb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -442px
+}
+.sprite-xyitems.poison_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -577px -286px
+}
+.sprite-xyitems.shed_shell {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -640px -78px
+}
+.sprite-xyitems.sharpedonite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -416px
+}
+.sprite-xyitems.poke_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -642px
+}
+.sprite-xyitems.poke_radar {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -603px
+}
+.sprite-xyitems.pokeblock_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -474px
+}
+.sprite-xyitems.pokedoll {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -640px -104px
+}
+.sprite-xyitems.sharp_beak {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -630px -156px
+}
+.sprite-xyitems.secretpotion {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -538px
+}
+.sprite-xyitems.altarianite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -390px
+}
+.sprite-xyitems.bluk_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -642px
+}
+.sprite-xyitems.pomeg_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -500px
+}
+.sprite-xyitems.potion {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -634px
+}
+.sprite-xyitems.powder_jar {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -575px
+}
+.sprite-xyitems.ampharosite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -601px
+}
+.sprite-xyitems.power_anklet {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -642px
+}
+.sprite-xyitems.power_band {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -577px -312px
+}
+.sprite-xyitems.power_belt {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -364px
+}
+.sprite-xyitems.power_bracer {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -656px
+}
+.sprite-xyitems.power_herb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -603px -260px
+}
+.sprite-xyitems.power_lens {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -564px
+}
+.sprite-xyitems.power_weight {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -656px
+}
+.sprite-xyitems.pp_max {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -659px 0
+}
+.sprite-xyitems.pp_up {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -634px -182px
+}
+.sprite-xyitems.premier_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -634px
+}
+.sprite-xyitems.seal_case {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -648px -130px
+}
+.sprite-xyitems.x_accuracy {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -468px
+}
+.sprite-xyitems.amulet_coin {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -629px
+}
+.sprite-xyitems.seal_bag {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -620px -234px
+}
+.sprite-xyitems.sea_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -536px
+}
+.sprite-xyitems.protector {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -442px
+}
+.sprite-xyitems.protein {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -572px -338px
+}
+.sprite-xyitems.psychic_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -601px
+}
+.sprite-xyitems.scope_lens {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -416px
+}
+.sprite-xyitems.scizorite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -634px -208px
+}
+.sprite-xyitems.sceptilite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -500px
+}
+.sprite-xyitems.pure_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -603px -286px
+}
+.sprite-xyitems.qualot_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -52px
+}
+.sprite-xyitems.quick_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -668px -26px
+}
+.sprite-xyitems.quick_claw {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -669px
+}
+.sprite-xyitems.quick_powder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -78px
+}
+.sprite-xyitems.rabuta_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -526px
+}
+.sprite-xyitems.bright_powder {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -390px
+}
+.sprite-xyitems.scanner {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -629px
+}
+.sprite-xyitems.bug_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -564px
+}
+.sprite-xyitems.rainbow_pass {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -668px
+}
+.sprite-xyitems.works_key {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -104px
+}
+.sprite-xyitems.rare_bone {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -656px -156px
+}
+.sprite-xyitems.rare_candy {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -668px
+}
+.sprite-xyitems.rawst_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -601px
+}
+.sprite-xyitems.razor_claw {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -572px -364px
+}
+.sprite-xyitems.razor_fang {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -660px
+}
+.sprite-xyitems.razz_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -627px
+}
+.sprite-xyitems.reaper_cloth {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -603px -312px
+}
+.sprite-xyitems.wise_glasses {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -590px
+}
+.sprite-xyitems.sapphire {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -494px
+}
+.sprite-xyitems.wiki_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -468px
+}
+.sprite-xyitems.red_card {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -130px -668px
+}
+.sprite-xyitems.salamencite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -629px -260px
+}
+.sprite-xyitems.red_flute {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -442px
+}
+.sprite-xyitems.burn_drive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -682px
+}
+.sprite-xyitems.burn_heal {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -682px
+}
+.sprite-xyitems.salac_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -562px
+}
+.sprite-xyitems.wide_lens {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -660px -182px
+}
+.sprite-xyitems.red_scarf {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -182px -660px
+}
+.sprite-xyitems.red_shard {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -685px 0
+}
+.sprite-xyitems.antidote {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -416px
+}
+.sprite-xyitems.calcium {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -674px -130px
+}
+.sprite-xyitems.cameruptite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -598px -338px
+}
+.sprite-xyitems.white_herb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -526px
+}
+.sprite-xyitems.repeat_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -646px -234px
+}
+.sprite-xyitems.repel {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -655px
+}
+.sprite-xyitems.revival_herb {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -286px -627px
+}
+.sprite-xyitems.revive {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -629px -286px
+}
+.sprite-xyitems.apicot_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -552px
+}
+.sprite-xyitems.rindo_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -660px -208px
+}
+.sprite-xyitems.rock_gem {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -572px -390px
+}
+.sprite-xyitems.rock_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -364px -590px
+}
+.sprite-xyitems.safety_goggles {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -692px -52px
+}
+.sprite-xyitems.safari_ball {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -694px -26px
+}
+.sprite-xyitems.rocky_helmet {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -695px
+}
+.sprite-xyitems.root_fossil {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -234px -655px
+}
+.sprite-xyitems.rose_incense {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -692px -78px
+}
+.sprite-xyitems.roseli_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -694px
+}
+.sprite-xyitems.sacred_ash {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -494px
+}
+.sprite-xyitems.sablenite {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -520px
+}
+.sprite-xyitems.rowap_berry {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -468px
+}
+.sprite-xyitems.ruby {
+    width: 24px;
+    height: 24px;
+
+    background-repeat: no-repeat;
+    background-position: -682px -156px
+}
+.sprite-xyitems.tropic_plant {
+    width: 16px;
+    height: 23px;
+
+    background-repeat: no-repeat;
+    background-position: -692px -104px
+}
+.sprite-xyitems.terrain_extender {
+    width: 19px;
+    height: 23px;
+
+    background-repeat: no-repeat;
+    background-position: -598px -364px
+}
+.sprite-xyitems.magna_plant {
+    width: 16px;
+    height: 23px;
+
+    background-repeat: no-repeat;
+    background-position: -312px -627px
+}
+.sprite-xyitems.protective_pads {
+    width: 20px;
+    height: 22px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -694px
+}
+.sprite-xyitems.adrenaline_orb {
+    width: 17px;
+    height: 21px;
+
+    background-repeat: no-repeat;
+    background-position: -629px -312px
+}
+.sprite-xyitems.poison_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -442px
+}
+.sprite-xyitems.electric_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -338px -616px
+}
+.sprite-xyitems.dragon_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -260px -653px
+}
+.sprite-xyitems.fairy_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -156px -686px
+}
+.sprite-xyitems.rock_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -655px -260px
+}
+.sprite-xyitems.fighting_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -126px -694px
+}
+.sprite-xyitems.bug_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -390px -588px
+}
+.sprite-xyitems.psychic_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -442px -552px
+}
+.sprite-xyitems.ice_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -572px -416px
+}
+.sprite-xyitems.ghost_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -708px
+}
+.sprite-xyitems.grass_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -178px -686px
+}
+.sprite-xyitems.steel_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -48px -708px
+}
+.sprite-xyitems.water_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -624px -338px
+}
+.sprite-xyitems.flying_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -686px -182px
+}
+.sprite-xyitems.dark_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -711px 0
+}
+.sprite-xyitems.fire_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -282px -653px
+}
+.sprite-xyitems.ground_memory {
+    width: 20px;
+    height: 20px;
+
+    background-repeat: no-repeat;
+    background-position: -672px -234px
+}
+.sprite-xyitems.beast_ball {
+    width: 20px;
+    height: 19px;
+
+    background-repeat: no-repeat;
+    background-position: -700px -129px
+}
+.sprite-xyitems.mudkip_doll {
+    width: 15px;
+    height: 18px;
+
+    background-repeat: no-repeat;
+    background-position: -208px -681px
+}
+.sprite-xyitems.pikachu_doll {
+    width: 16px;
+    height: 18px;
+
+    background-repeat: no-repeat;
+    background-position: -416px -578px
+}
+.sprite-xyitems.skitty_doll {
+    width: 17px;
+    height: 17px;
+
+    background-repeat: no-repeat;
+    background-position: -655px -282px
+}
+.sprite-xyitems.mud_ball {
+    width: 16px;
+    height: 17px;
+
+    background-repeat: no-repeat;
+    background-position: -598px -389px
+}
+.sprite-xyitems.totodile_doll {
+    width: 16px;
+    height: 17px;
+
+    background-repeat: no-repeat;
+    background-position: -360px -616px
+}
+.sprite-xyitems.pichu_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -686px -204px
+}
+.sprite-xyitems.oddish_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -464px
+}
+.sprite-xyitems.ragged_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -225px -681px
+}
+.sprite-xyitems.blue_carpet {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -494px
+}
+.sprite-xyitems.azurill_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -520px
+}
+.sprite-xyitems.b_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -710px -104px
+}
+.sprite-xyitems.blue_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -619px -364px
+}
+.sprite-xyitems.round_tv {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -330px -638px
+}
+.sprite-xyitems.brick_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -468px -546px
+}
+.sprite-xyitems.wynaut_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -648px -312px
+}
+.sprite-xyitems.sky_poster {
+    width: 32px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -568px -442px
+}
+.sprite-xyitems.red_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -718px -52px
+}
+.sprite-xyitems.marill_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -304px -653px
+}
+.sprite-xyitems.small_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -720px -22px
+}
+.sprite-xyitems.small_desk {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -721px
+}
+.sprite-xyitems.sea_poster {
+    width: 32px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -718px -70px
+}
+.sprite-xyitems.smoochum_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -378px -616px
+}
+.sprite-xyitems.magikarp_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -434px -578px
+}
+.sprite-xyitems.machop_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -243px -681px
+}
+.sprite-xyitems.c_high_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -148px -708px
+}
+.sprite-xyitems.lotad_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -70px -720px
+}
+.sprite-xyitems.long_poster {
+    width: 32px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -261px -675px
+}
+.sprite-xyitems.kiss_poster {
+    width: 32px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -708px -150px
+}
+.sprite-xyitems.kiss_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -677px -256px
+}
+.sprite-xyitems.kecleon_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -598px -408px
+}
+.sprite-xyitems.jump_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -88px -720px
+}
+.sprite-xyitems.c_low_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -106px -718px
+}
+.sprite-xyitems.camp_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -412px -598px
+}
+.sprite-xyitems.chikorita_doll {
+    width: 12px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -120px -269px
+}
+.sprite-xyitems.ball_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -348px -638px
+}
+.sprite-xyitems.spin_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -126px -716px
+}
+.sprite-xyitems.spin_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -648px -330px
+}
+.sprite-xyitems.heavy_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -166px -708px
+}
+.sprite-xyitems.hard_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -619px -382px
+}
+.sprite-xyitems.gulpin_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -708px -168px
+}
+.sprite-xyitems.weedle_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -546px -482px
+}
+.sprite-xyitems.squirtle_doll {
+    width: 12px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -104px -303px
+}
+.sprite-xyitems.pretty_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -694px -222px
+}
+.sprite-xyitems.green_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -200px -701px
+}
+.sprite-xyitems.green_carpet {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -520px -512px
+}
+.sprite-xyitems.clefairy_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -18px -730px
+}
+.sprite-xyitems.comfort_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -564px -464px
+}
+.sprite-xyitems.staryu_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -464px -564px
+}
+.sprite-xyitems.poliwag_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -677px -274px
+}
+.sprite-xyitems.pokemon_desk {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -494px -538px
+}
+.sprite-xyitems.cute_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -322px -656px
+}
+.sprite-xyitems.grass_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -301px
+}
+.sprite-xyitems.glitter_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -36px -730px
+}
+.sprite-xyitems.seedot_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -637px -360px
+}
+.sprite-xyitems.round_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -708px -186px
+}
+.sprite-xyitems.geodude_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -722px -122px
+}
+.sprite-xyitems.cute_tv {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -396px -616px
+}
+.sprite-xyitems.g_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -366px -635px
+}
+.sprite-xyitems.water_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -704px -204px
+}
+.sprite-xyitems.d_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -733px 0
+}
+.sprite-xyitems.pokemon_chair {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -728px -88px
+}
+.sprite-xyitems.ball_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -218px -701px
+}
+.sprite-xyitems.red_carpet {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -538px -500px
+}
+.sprite-xyitems.surf_pikachu_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -616px -400px
+}
+.sprite-xyitems.swablu_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -695px -240px
+}
+.sprite-xyitems.unown_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -430px -598px
+}
+.sprite-xyitems.yellow_carpet {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -295px -675px
+}
+.sprite-xyitems.fence_width {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -452px -582px
+}
+.sprite-xyitems.diamond_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -512px -530px
+}
+.sprite-xyitems.shellder_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -736px -40px
+}
+.sprite-xyitems.fence_length {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -602px -426px
+}
+.sprite-xyitems.baltoy_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -236px -699px
+}
+.sprite-xyitems.diglett_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -738px -18px
+}
+.sprite-xyitems.f_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -319px
+}
+.sprite-xyitems.ditto_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -486px -556px
+}
+.sprite-xyitems.pikachu_poster {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -340px -656px
+}
+.sprite-xyitems.togepi_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: 0 -739px
+}
+.sprite-xyitems.torchic_doll {
+    width: 13px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -184px -708px
+}
+.sprite-xyitems.zigzag_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -54px -738px
+}
+.sprite-xyitems.pika_poster {
+    width: 32px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -144px -726px
+}
+.sprite-xyitems.pika_cushion {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -261px -693px
+}
+.sprite-xyitems.e_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -637px -378px
+}
+.sprite-xyitems.treecko_doll {
+    width: 11px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -384px -634px
+}
+.sprite-xyitems.duskull_doll {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -695px -258px
+}
+.sprite-xyitems.a_note_mat {
+    width: 16px;
+    height: 16px;
+
+    background-repeat: no-repeat;
+    background-position: -72px -738px
+}
+.sprite-xyitems.charmander_doll {
+    width: 12px;
+    height: 15px;
+
+    background-repeat: no-repeat;
+    background-position: -105px -50px
+}
+.sprite-xyitems.meowth_doll {
+    width: 14px;
+    height: 15px;
+
+    background-repeat: no-repeat;
+    background-position: -68px -218px
+}
+.sprite-xyitems.bulbasaur_doll {
+    width: 15px;
+    height: 15px;
+
+    background-repeat: no-repeat;
+    background-position: -655px -348px
+}
+.sprite-xyitems.jigglypuff_doll {
+    width: 17px;
+    height: 15px;
+
+    background-repeat: no-repeat;
+    background-position: -582px -460px
+}
+.sprite-xyitems.clefairy_doll {
+    width: 15px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -218px -68px
+}
+.sprite-xyitems.psychic_seed {
+    width: 24px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -728px -106px
+}
+.sprite-xyitems.cyndaquil_doll {
+    width: 12px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -119px -50px
+}
+.sprite-xyitems.grassy_seed {
+    width: 24px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -564px -482px
+}
+.sprite-xyitems.misty_seed {
+    width: 24px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -414px -616px
+}
+.sprite-xyitems.electric_seed {
+    width: 24px;
+    height: 14px;
+
+    background-repeat: no-repeat;
+    background-position: -313px -674px
+}
+.sprite-xyitems.red_balloon {
+    width: 17px;
+    height: 13px;
+
+    background-repeat: no-repeat;
+    background-position: -90px -738px
+}
+.sprite-xyitems.yellow_balloon {
+    width: 17px;
+    height: 13px;
+
+    background-repeat: no-repeat;
+    background-position: -684px -292px
+}
+.sprite-xyitems.blue_balloon {
+    width: 17px;
+    height: 13px;
+
+    background-repeat: no-repeat;
+    background-position: -109px -736px
+}
+.sprite-xyitems.gengar_doll {
+    width: 14px;
+    height: 12px;
+
+    background-repeat: no-repeat;
+    background-position: -84px -218px
+}
+.sprite-xyitems.voltorb_doll {
+    width: 12px;
+    height: 12px;
+
+    background-repeat: no-repeat;
+    background-position: -236px -102px
+}
+.sprite-xyitems.virtual_boy {
+    width: 16px;
+    height: 11px;
+
+    background-repeat: no-repeat;
+    background-position: -26px -383px
+}
+.sprite-xyitems.nes {
+    width: 10px;
+    height: 10px;
+
+    background-repeat: no-repeat;
+    background-position: -205px -34px
+}
+.sprite-xyitems.super_nes {
+    width: 10px;
+    height: 10px;
+
+    background-repeat: no-repeat;
+    background-position: -52px -252px
+}
+.sprite-xyitems.fairium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -78px -396px
+}
+.sprite-xyitems.firium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -736px -58px
+}
+.sprite-xyitems.flyinium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -726px -168px
+}
+.sprite-xyitems.groundium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -712px -222px
+}
+.sprite-xyitems.icium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -199px -719px
+}
+.sprite-xyitems.dragonium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -666px -337px
+}
+.sprite-xyitems.incinium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -538px -518px
+}
+.sprite-xyitems.fightinium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -279px -693px
+}
+.sprite-xyitems.snorlium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -358px -656px
+}
+.sprite-xyitems.electrium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -178px -726px
+}
+.sprite-xyitems.buginium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -726px -179px
+}
+.sprite-xyitems.marshadium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -620px -418px
+}
+.sprite-xyitems.darkinium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -556px -500px
+}
+.sprite-xyitems.mewnium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -695px -276px
+}
+.sprite-xyitems.tapunium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -602px -444px
+}
+.sprite-xyitems.decidium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -397px -634px
+}
+.sprite-xyitems.ghostium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -470px -582px
+}
+.sprite-xyitems.normalium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -18px -748px
+}
+.sprite-xyitems.steelium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -448px -600px
+}
+.sprite-xyitems.pikanium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -36px -748px
+}
+.sprite-xyitems.pikashunium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -530px -530px
+}
+.sprite-xyitems.poisonium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -634px -400px
+}
+.sprite-xyitems.primarium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -684px -307px
+}
+.sprite-xyitems.waterium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -655px -365px
+}
+.sprite-xyitems.psychium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -512px -548px
+}
+.sprite-xyitems.aloraichium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -740px -122px
+}
+.sprite-xyitems.grassium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -713px -233px
+}
+.sprite-xyitems.rockium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -722px -204px
+}
+.sprite-xyitems.eevium_z {
+    left:5px;
+    top: 0px !important;
+    width: 16px;
+    height: 9px;
+
+    background-repeat: no-repeat;
+    background-position: -726px -190px
+}

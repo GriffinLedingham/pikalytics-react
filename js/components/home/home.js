@@ -33,7 +33,5 @@ class Home extends React.Component {
 }
 
 export default connect(state => ({
-  stories: state.get('stories'),
-  comments: state.get('comments'),
-  items: state.get('items')
+
 }))(Home)

@@ -3,7 +3,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 import values from 'lodash/values'
 
-import API from '../classes/api'
+import { fetchFormats } from '../actions/format'
 
 const headerStyle = {
     background: '#373737',
@@ -18,22 +18,6 @@ const headerStyle = {
     width: '100%',
 }
 
-const headerItem = {
-    borderBottom: '7px solid #373737',
-    boxSizing: 'border-box',
-    color: '#c4c4c4',
-    display: 'inline-block',
-    fontFamily: 'Lato',
-    fontSize: '12px',
-    fontWeight: 'initial',
-    height: '100%',
-    marginRight: '-3px',
-    padding: '32px 30px 0',
-    textShadow: '0 1px rgba(0,0,0,0.45)',
-    textTransform: 'uppercase',
-    verticalAlign: 'top'
-}
-
 const headerLogo = {
     display: 'inline-block',
     color: '#fdd800',
@@ -43,24 +27,28 @@ const headerLogo = {
     paddingTop: '25px',
     fontSize: '20px',
     paddingBottom: '20px',
-    letterSpacing: '1px'
+    letterSpacing: '1px',
+    textDecoration: 'none'
 }
 
 class Header extends React.Component {
   componentDidMount () {
-
+    this.props.fetchFormats()
   }
 
   render () {
+    const { formatList } = this.props
+    if(!formatList) return null
     return (
       <div style={headerStyle}>
+        <img src="/assets/header-icon_v2.png" className="headerLogo" />
         <Link to={`/`} style={headerLogo} >Pikalytics</Link>
-        <Link to={`/pokedex`} style={headerItem} >Pokedex</Link>
+        <Link to={`/pokedex/${formatList.first()}`} className="headerItem" >Pokedex</Link>
       </div>
     )
   }
 }
 
 export default connect(state => ({
-
-}))(Header)
+  formatList: state.format.get('formatList')
+}), {fetchFormats})(Header)

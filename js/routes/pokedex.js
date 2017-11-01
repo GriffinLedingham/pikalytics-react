@@ -18,10 +18,10 @@ class Pokedex extends React.Component {
     return (
       <div className="pokedex">
         <PokedexHeader />
-        <PokedexList />
+        <PokedexList format={this.props.match.params.format} />
         <Switch>
-          <Route path="/pokedex/:name" component={PokedexContent} />
-          <Route path="/pokedex" component={PokedexContent} />
+          <Route path="/pokedex/:format/:name" component={PokedexContent} />
+          <Route path="/pokedex/:format" component={PokedexContent} />
         </Switch>
       </div>
     )

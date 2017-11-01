@@ -9,14 +9,19 @@ class PokedexHeader extends React.Component {
   }
 
   render () {
+    const { formatList } = this.props
     return (
       <div className="pokedexHeader">
-      c
+        {formatList.map( formatItem => {
+          return (
+            <Link to={`/pokedex/${formatItem}`} className="pokedexHeaderItem">{formatItem}</Link>
+          )
+        })}
       </div>
     )
   }
 }
 
 export default connect(state => ({
-
+  formatList: state.format.get('formatList')
 }))(PokedexHeader)
