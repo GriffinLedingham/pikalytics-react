@@ -1,4 +1,4 @@
-# Pikalytics v2
+# pikalytics-react
 
 A competitive Pokemon meta game webapp, rewrite in React.
 
