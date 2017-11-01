@@ -10,7 +10,7 @@ import Header from './header.js'
 
 import Home from './home/home.js'
 
-import Pokedex from './pokedex/pokedex.js'
+import Pokedex from '../routes/pokedex.js'
 
 class App extends React.Component {
   componentDidMount () {
@@ -27,13 +27,11 @@ class App extends React.Component {
           <Route path="/" component={Home} />
         </Switch>
       </div>
-      </BrowserRouter>
+    </BrowserRouter>
     )
   }
 }
 
 export default connect(state => ({
-  stories: state.get('stories'),
-  comments: state.get('comments'),
-  items: state.get('items')
+
 }))(App)

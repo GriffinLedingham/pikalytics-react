@@ -1,8 +1,7 @@
 import { Map, fromJS, List } from 'immutable'
 import uniq from 'lodash/uniq'
 import update from 'react-addons-update'
-import {CHANGE_POKEMON_LIST} from './actions/pokemonList'
-import {CHANGE_POKEMON} from './actions/pokemon'
+import {CHANGE_POKEMON, CHANGE_POKEMON_LIST} from '../actions/pokemon'
 
 let defaultState = window.localStorage.getItem('state')
 if (defaultState) {
@@ -12,7 +11,6 @@ if (defaultState) {
     pokemon: new List(),
     pokemonItems: new Map(),
     currentPokemon: 'Arcanine'
-    // comments: new Map(),
   })
 }
 

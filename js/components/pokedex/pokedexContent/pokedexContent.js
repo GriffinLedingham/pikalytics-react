@@ -66,6 +66,6 @@ class PokedexContent extends React.Component {
 }
 
 export default connect(state => ({
-  currentPokemon: state.get('currentPokemon'),
-  pokemonItems: state.get('pokemonItems')
+  currentPokemon: state.pokemon.get('currentPokemon'),
+  pokemonItems: state.pokemon.get('pokemonItems')
 }))(PokedexContent)

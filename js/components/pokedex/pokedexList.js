@@ -7,7 +7,7 @@ import API from '../../classes/api'
 
 class PokedexList extends React.Component {
   componentDidMount () {
-    API.fetchPokemonList()
+
   }
 
   render () {
@@ -25,5 +25,5 @@ class PokedexList extends React.Component {
 }
 
 export default connect(state => ({
-  pokemon: state.get('pokemon')
+  pokemon: state.pokemon.get('pokemon')
 }))(PokedexList)
